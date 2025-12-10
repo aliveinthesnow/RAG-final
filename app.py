@@ -58,6 +58,10 @@ st.markdown("""
         /* [data-testid="stToolbar"] {visibility: hidden !important;}  <-- Removed to restore Sidebar Toggle */
         [data-testid="stHeaderActionElements"] {display: none !important;}
         
+        /* Hide various Streamlit Cloud junk including GitHub badge */
+        div[class^='viewerBadge'] {display: none !important;}
+        header a[href*='github.com'] {display: none !important;}
+        
         /* Remove default padding - Adjusted to clear header */
         .block-container {
             padding-top: 6rem; /* Increased to ensure Title is visible below header */
