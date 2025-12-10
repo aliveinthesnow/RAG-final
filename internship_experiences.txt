@@ -1,0 +1,2057 @@
+==================================================
+COMPANY: AMAZON
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/amazon/ashiqa-rahman]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+This was an off-campus opportunity.
+Round 1 : HackOn Hackathon
+Qualified with my team to Top 10 so was given a chance to technical interview .
+Round 2:  Technical Interview
+Description of Online test:
+Description of Technical Interview:
+10 min discussion on projects listed in resume then moved to DSA part .
+Questions received in 45min interview :
+1) Find K largest element in a Binary Search Tree
+2)Find the median of two sorted arrays without using extra space .
+Started with O(n) approach then expected O(log n)  solution by Binary search
+Description of HR Round:
+Leetcode & InterviewBit
+Additional info for our viewers:
+1.Before OT , check leetcode "Discuss" as other indian college students put up their OT questions during the placement season. You might get lucky and get the same question.
+2. Before the interview , try to go through GFG archives of inteview experience and leetcode/interviewbit's commonly asked questions by the company. (Highly likely you might get a ques from there)
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/amazon/amit-jakhar]
+Use tab to navigate through the menu items.
+Software Development Engineer (SDE)
+Electrical and Electronics Engineering
+Btech – CSE, ECE, EEE , Mtech – CSE, ECE, EEE, MCA
+CGPA >= 6.5 and No Active Backlog
+1. Online Test
+2. Technical Interview -1
+3. Technical Interview  -2
+4. Technical + HR interview
+Description of Online test:
+This round was of 2.5 hrs and comprised of 5 sections:
+A.	Debugging Round (20 Minutes) :
+There were 7 problems. And in each problem statement, input /output (expected) and code was given and we needed to debug the given code to  pass all the test cases.
+B.	Coding Round (70 Minutes):
+There were 2 problems of medium level .
+One problem was to count all substring having at most K distinct characters and another was to find the maximum of all subarrays of size k .
+C.	Behavioral Round (20 Minutes):
+In this round many situational problems (MCQs) were given to test your behavior, leadership principle and moral values.
+D.	Aptitude Round (35 Minutes ) :
+There were 24 Aptitude problems.
+Description of Technical Interview:
+Technical Interview Round 1:
+Interviewer started off by giving a small introduction of himself and he asked me to introduce myself. In this round the interviewer asked me 2 coding problems based on data structures and algorithms.
+First problem was that – we have a binary tree and we need to print the binary tree in vertical order (Vertical Order Traversal). I told him the optimized approach and also discussed space and time complexities , then he asked me to write code in ‘amazon code live’.
+After this he asked me another problem – we are given N petrol pumps on a circle and at each petrol pump, distance from that petrol pump to the next petrol pump and amount of petrol at that petrol pump is given . We need to tell the first circular tour that visits all petrol pumps without losing petrol in between two petrol pumps. I explained both brute force and optimized O(N) approach and then he asked me to code optimized approach again in ‘amazon code live’.
+Technical Interview Round 2:
+Interview started with my introduction. And in this round also the interviewer asked me 2 coding problems. Both problems were of Dynamic Programming (DP).
+First question was that – we have a N-ary tree and and we need to print  kth ancestor of all nodes of binary tree .I started discussion with brute force and for further optimization I discussed Binary Lifting Technique (DP approach) to find kth ancestor  and time & space complexities  . After that I  coded it.
+Second problem was that – we are given K dice and we need to tell no. of ways to get N (sum of all dice output). I discussed DP approach (optimized ) and then he asked me to code for both DP methods – Top-down and Bottom-up .
+Description of HR Round:
+Technical + HR Round (Final Round)
+Firstly Interviewer gave his introduction and asked me to introduce myself. Then Interviewer asked me to explain one of my projects . I explained my project in which Reactjs and Reduxjs were used .
+So he asked some questions on Reactjs and Reduxjs .
+Then he gave me one situational problem and asked  how I’ll react to  this situation .
+After that  he gave me a problem that we are building a web application in which a delivery boy gets the destination address whenever someone books in order. And I need to give a solution for deciding  the shortest path from the starting point of the delivery boy to his destination.  Actually it was a Graph question and I discussed Dijkstra’s algorithm to solve this problem . I also discussed space and time complexity. Then he asked me to code.
+At last he asked me to ask some questions if I have any.
+Keep practicing DSA problems from InterviewBit, Leetcode or GFG. Also give equal importance to  CS subjects(OS,DBMS) and OOPs. Keep your resume ready with 2-3 good projects in Web development or Android development or Machine Learning. And make sure that you should be perfect in everything you have written in your resume .
+When a question is asked, be confident, start with the Brute Force approach  and keep communicating with the interviewer and let him/her know about your approach.
+Competitive Programming: Codechef, Codeforces, Hackerearth
+DSA: Leetcode, InterviewBit, GFG
+1. For CS Subjects: Sanchit Jain(OS & DBMS)(
+https://www.youtube.com/c/KNOWLEDGEGATE_kg),
+https://www.youtube.com/c/GateSmashers)
+https://www.youtube.com/c/AdityaVermaTheProgrammingLord),
+https://www.youtube.com/c/takeUforward),
+https://www.youtube.com/c/Pepcoding),
+https://www.youtube.com/c/TECHDOSE4u),
+https://www.youtube.com/c/RachitJain)
+https://www.youtube.com/c/Errichto)
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/amazon/suchith-reddy-billa]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round1 : OT
+Round 2 : Technical Interview
+Description of Online test:
+Coding, Debugging, Mental Ability
+Description of Technical Interview:
+2 coding question on arrays and about questions about my project
+Description of HR Round:
+Interviewer was completely cool and encouraged me to solve questions till optimized solutions reached
+Practice interviewbit thoroughly and follow gfg archives and read java t point oops and dbms and be ready for some project questions
+interview bit, gfg, java t point
+Additional info for our viewers:
+Be confident and don't give up. There will be times when you don’t clear OTs but your friends will, but trust me if you did enough hard work sooner or later you'll get and don't put too much expectations on one particular company because if you don't get, you will be depressed a lot. So just go with flow and after getting intern or FTE once you look back you will feel proud of yourself.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/amazon/bitla-varun-kumar]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1 - OT
+Round 2 - Technical Interview
+No HR round
+Description of Online test:
+Description of Technical Interview:
+Description of HR Round:
+Practice more questions in DSA
+Leetcode, Interviewbit, Codechef
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/amazon/waseem-syed]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+BTech - CSE, ECE, EEE M-Tech - CSE, ECE, EEE MCA
+6.5 and above CGPA with No Active Backlog
+There were only 2 rounds
+Round-1: online test
+Round-2: technical interview
+Description of Online test:
+This round was of 2.5 hrs and comprised of 5 sections:
+A.	Debugging Round (20 Minutes) :
+There were 7 problems. And in each problem statement, input /output (expected) and code was given and we needed to debug the given code to  pass all the test cases.
+B.	Coding Round (70 Minutes) :
+There were 2 problems of medium level
+C.	Behavioral Round (20 Minutes) :
+In this round many situational problems (MCQs) were given to test your behavior, leadership principle and moral values.
+D.	Aptitude Round (35 Minutes ) :
+There were 24 Aptitude problems.
+Description of Technical Interview:
+The interviewer started off by giving a small introduction of herself and then asked me to introduce myself. Then the interviewer asked me 2 coding questions based on data structures and algorithms.
+https://www.geeksforgeeks.org/burn-the-binary-tree-starting-from-the-target-node/
+https://leetcode.com/problems/group-anagrams/
+then she asked whether i have any questions to her and then concluded the interview
+Description of HR Round:
+From a 3rd year student the companies expect to have some decent problem solving skills
+so be good with DSA problems. Also be good in the CS subjects like OOPS, DBMS. having 1 or 2 projects in your resume is better. Make sure you are perfect with your resume as the interviewer may ask anything from your resume. research about the company before the interview as it will come in handy. And coming to the technical interview just be confident. listen to the questions carefully and answer the questions you know for sure. be as transparent as you can be towards your interviewer so that your interview can be as smooth as possible
+DSA: Leetcode, GFG, interviewbit
+competitive programming: codeforces, codechef
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/amazon/rajat-sharma]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+We were allowed to choose from Hyderabad, Pune, Noida, Chennai
+B.tech(circuit branches), Mtech(circuit branches)
+CGPA Cutoff - 6.5 with no active backlog
+There were two rounds,
+Round 1 : Online Test
+Round 2 : Interview
+Description of Online test:
+Test duration was 150 mins and comprised of 5 sections:
+A.	Debugging Round (20 Minutes) :
+There were 7 problems. And in each problem statement, input /output (expected) and code was given and we needed to debug the given code to  pass all the test cases.The questions were pretty much easy, one can complete the round within 10 mins easily.
+B.	Coding Round (70 Minutes) :
+There were 2 problems of medium level, the problems were standard with a slight modification, nothing out of the bound was asked.
+C.	Behavioral Round (20 Minutes) :
+In this round many situational problems (MCQs) were given to test your behavior, leadership principle and moral values. For getting this round clear, one should be aware of amazon leadership principles.
+D.	Aptitude Round (35 Minutes ) :
+There were 24 Aptitude problems. Medium level aptitude questions were asked.
+E.	Feedback. Giving feedback was important. Although it doesn't had time limit, but your test was not considered as complete without filling the feedback. Feedback was asked about their platform.
+Description of Technical Interview:
+The round was held on amazon chime and a live codepair link was given to write code. The interview started with a small introduction by the interviewer, and he just asked my name and branch, and was not at all interested in this. He directly moved on to the coding part. Two questions were asked, one was based on optimisation and second was modification of buying and selling of stock with certain constraints. The interviewer was very much focused on my approaches. Every time I say something, he always tells me to code this and show him how it will work so be confident about whatever you speak. The round lasted for 1 hr 15 mins, nothing else was asked except dsa questions.
+Description of HR Round:
+For the people in the circuit branch, be focused on the dsa subject that you have. Start preparing last to last by 2-2, that's high time. Give contests regularly on leetcode and codeforces(optional). Also parallely keep preparing other required subject  i.e. OOPS and DBMS. Try to make small small projects which will be very much useful on your resume. Build your resume one month before starting the intern drive. In summer vacations, Solve interviewbit completely as revision. Be consistent with problem solving.
+At the time of intern drive, there will be situations when you'll not be shortlisted for certain companies and your friend will get selected, keep yourself motivated at that time. This is very much important. Don't rush for a particular company, whenever there is a test, always try to give your best. Your hardwork will surely give you results. If you feel low anytime, talk to your friends, your parents, your seniors. They will cheer you up.Reach out your seniors for any kind of help at any point of time. All the best!
+Coding platforms- Leetcode(must do for dsa), GFG, Interviewbit(must solve complete interviewbit one month before the drive), codeforces(for CP)
+Youtube channels- Code n code(for graphs), Aditya Verma(many topics are there, best for DP), code with harry, love babbar(DSA Cheatsheet), Abdul Bari(for algorithms), Sanchit Jain(DBMS), Tushar Roy
+websites- javatpoint(reading for oops) w3schools, gfg, In leetcode always go through discussions after solving a problem
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/amazon/sai-bharath-reddy-l]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+CGPA >= 6.5 , No active backlogs
+Round1 : OT
+Round 2 : Technical Interview
+Description of Online test:
+Debugging some of the basic codes, Ans 2 DSA questions based on logic & Hashing
+Description of Technical Interview:
+I had a technical Interview, with one of the employee of Amazon for almost of 1 hr 15 mins,
+I just described my DBMS project.
+Then we moved on to the DSA coding questions.
+1. It's a question based on the Matrix BFS,
+2. Candy question leetcode link :
+https://leetcode.com/problems/candy/
+Both the questions are of medium & hard level If you have solved them previously then they will easy only,
+We need to write the entire executable code for both the questions.
+Description of HR Round:
+One should be clear in DSA concepts,
+Practicing in leetcode & Geeks for geeks or IB will help a lot,
+GFG is the most important resource that we geek shave utilize it well,
+After having the clear idea on DSA then give yourself 4-5 months
+In this period start practicing the Leetcode & start giving contests, which Boosts our speed of coding & thinking
+Leetcode & GFG are the Best resources
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: ANSYS-INC.
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/ansys-inc./vyankatesh-m.-bhandarkar]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1 - Online Test
+Round 2 - Technical
+Round 3 - HR Interview
+Description of Online test:
+Questions were mainly focused on cpp , oops , OS
+Description of Technical Interview:
+3-4 DSA questions (trees,linked list)
+Oops questions and concepts
+Description of HR Round:
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: AXIS-BANK
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/axis-bank/bukka-gunadheer-reddy]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+2. Online Test
+3. HR Round
+Description of Online test:
+Machine Learning Concepts (15 MCQs) + DSA (1 Coding Question)
+Description of Technical Interview:
+No Technical Interview
+Description of HR Round:
+2) What is the difference between Machine Learning & Statistics
+3) What do you do? (I said i have little knowledge of trading stocks and Crypto) and Asked some questions about trading
+Learn "Machine Learning"  with deep knowledge about how models work and the Math behind them.
+Udemy ML course + Coursera DSA Course
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: BAJAJ-AUTO
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/bajaj-auto/nannapaneni-meghana]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Class XII Percentage greater or equal to 70%
+Class X percentage greater or equal to 70%
+Number of gap years between XII and UG should not be more than 1 year
+Round 1-Online test
+Round 2-Technical interview
+Round 3-HR interview
+Description of Online test:
+Online test consists of 90 questions for 90 minutes divided into 2 parts
+1.Aptitude Test- Aptitude, Logical and verbal reasoning,Data interpretation
+2.Technical Test- Problems and conceptual questions from Electrical Machines,Control Systems,Power Systems and its Protection,Circuit Theory, Electrical Instruments
+Shortlisted students were sent a Psychometric test link which consists of behavior and work related questions.
+Description of Technical Interview:
+Technical interview was for 20 min and questions are like:
+1.Introduction of the candidate
+2.What is your favorite subject?
+3.Different concepts related to electrical machines and their working
+4.Basic questions like
+(ii) What are components of the electrical network etc..
+5.Questions and explanation of project and courses mentioned in resume
+Description of HR Round:
+HR interview lasted for 20min and the interview went like:
+1.Why do you want to intern at Bajaj?
+2.Which role would you like manufacturing or R&D?
+3.Short term and long term goals
+4.How would you justify that you are a team worker?
+For electrical subjects lecture notes will suffice
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: BNY-MELLON
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/bny-mellon/a.sai-prathyush]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+6 CGPA cutoff for CSE, ECE, EEE, Mech, Chemical, MME, M.Sc.
+8 CGPA cutoff for Civil and Biotech
+Round 1 - online test
+Round 2 - technical interview
+Round 3 - technical and HR interview
+Description of Online test:
+In total, there are four coding questions given. The entire test is proctored. First question is on hashmap. It is an easy level question and if you have a basic idea on hashmaps it can be solved in 5-10 minutes and second question is that you have to print the shortest palindrome of two given strings. It is a standard dp model question. If you are able to do DP upto moderate level, you can do it very easily. Third question is also based on DP(dynamic programming). The question has twists and it took some time for me to identify that it is a DP problem. Finally, I space optimised and solved it completely. It is a medium to hard level question. Finally, the fourth question is on 2d matrix. It is a medium to hard level question. I solved it for a long time and submitted it but I was confused whether it got submitted or not as I lost my internet connection at the last moment. Till now it's suspicious for me whether it got submitted or not.
+Description of Technical Interview:
+In the first technical round interviewer was cool and very friendly.He had given me a question in a hackerrank based on priority queue .It is easy level question.And later he asked how I can implement priority queue using classes .He asked me to prototype and explain the implementation and all stuff.I explained it briefly until the interviewer gets satisfied.
+In the second technical interview also interviewer was very friendly.He has given me a question and asked me to tell approach for it.It is based on stacks.It is medium level type question.And later he asked me about my DBMS project and went deeply into it.Also he asked my few oops concepts .Finally ,after asking few hr questions interview was finished.
+Description of HR Round:
+There is no separate round for HR
+It is combined with the second technical round only.They asked me:
+Why do you want to join Bny Mellon,
+What's your favourite subject in engineering,
+How will you deal with the stressful situations,and a few more questions were asked.
+Don't give routine answers .Try to give answers that can impress him.
+Do CP well. It's enough to qualify for the OTs.
+Be thorough with OOPs and DBMS also about the project if you have done any..
+While following the playlist don't just blindly watch the whole video .First listen to the question and open that question in leetcode/gfg and give it a try. Spend at least 20-30 minutes to solve that question. If you can't figure out the solution, then resume and in the middle somewhere you will definitely get the idea. And then try once again, and if you don't get it, then only watch the complete video.
+Also another important thing ,after solving a question in leetcode,go to the discussion section and watch the others solution so that you can make out different approaches. Most of the learning takes place here only.
+Also complete the interviewbit in the last 3 months. Try to complete at least 60% of the problems in it.
+Aditya Verma,takeuforward YouTube channels for coding.There will be playlists for important concepts in those YouTube channels.
+Gfg,leetcode , interviewbit for practicing coding questions.
+Knowledge gate YouTube channel for dbms
+Oops you can study from anywhere.I personally followed code with Harry YouTube channel and practiced questions in gfg.
+Additional info for our viewers:
+1.All your coding skills will be tested in your ot only.Most of the time the coding questions asked in your interview will be easier than the questions those were asked in the ots .
+2.Don't get tensed in the interviews.Generally most of the interviewers are really very friendly.
+3.Don't think that non-cse branch students cannot get into software easily.ofc it's not easy than cse ,but if you have enough preparation it is easy.
+4.Be thorough with oops and dbms.
+Language doesn't matter for oops.If you are comfortable with c++,then go with it.
+5. If you have good rating  in any of the cp websites it gives some positive impression .But it is not the case that if you don't have good rating you can't get selected.Even though  you don't have any rating it doesn't matter if you have good coding skills.
+6.Last and final thing ,there can be cases like even if you solve all the questions in ot you may not get selected and others who solves partially may get selected.This might happens and happened also.Dont get demotivated in those cases ,just smile and keep going . Always remember one thing..hardwork always pays off!!
+--------------------
+
+
+==================================================
+COMPANY: BOEING
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/boeing/uday-kumar-balde]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1-OT
+Round 2- Technical + HR
+Description of Online test:
+Data structures and SQL and some , one question from each . only two questions.
+Description of Technical Interview:
+Mainly focused on problem solving skills and SQL. Some Questions on projects.
+Description of HR Round:
+2. What are your goals and achievements
+3.Tell me about the difficult situations you have faced in your life etc .
+1.Solve as much as DSA as it is mainly focused.
+2.Be prepare for situational based questions.
+Leetcode, GFG,  Interviewbit  and javatpoint
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/boeing/ankit-kumar]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Circuit Branches and Mechanical
+Round 1 - Resume Shortlisting
+Round 2 - OT
+Round 3 - HR
+Description of Online test:
+1. There was one SQL question
+2. One Programming (difficulty level easy)
+3. 16 MCQ's on programming basics , oops (mostly java), pseudocode , and logical questions
+Description of Technical Interview:
+Description of HR Round:
+This round was mostly behavioral and situation based questions.
+Consisted of typical STAR Method based questions like:
+1. What projects you did and what challenges did you face?
+2. How did you overcome those and solved these problems?
+3. Give an example when you proved yourself beyond the expectations of the team/mentor, and did work ,provided solutions more than you were supposed to do.
+Few more questions like these and it went on for around 40-45 minutes.
+1. Focus mainly on the DSA part.
+2. If you are at beginner level, start with hackerrank and solve questions. Then when you think you have done much of hackerrank , move to leetcode.
+3. Start by solving leetcode questions based on the difficulty and go out of your comfort zone .
+4. Make it a habit to visit discussion sections of leetcode for each question  irrespective of whether you could solve it or not and learn by seeing how others did it.
+5. Try to make a list of questions you find important(which has more than one concept) and solve these before any interview or OT.
+6. Start off with oops and DBMS once you think you are comfortable with the DSA part. Keep studying these in parallel with DSA.
+7. Make a good project and try to revisit your project everyday and get to know what and why you did so in the project.
+1. Leetcode (Solve questions and also give Biweekly and weekly contests)
+2. InterviewBit
+3. GFG ( For Clearing your doubts and also reading previous experiences)
+4. CodeChef and Codeforces (if you are interested in CP)
+5. Aditya Verma (Youtube for DP)
+6. My Code School (Youtube for basic DSA)
+Additional info for our viewers:
+1. Just start preparing as soon as possible. Contact your seniors and ask them what to do and how to do it.
+2. Prepare an organized schedule and follow that.
+3. In the beginning, don't go after all the resources you have. Just start with any to avoid confusion and waste time. Later on you can visit other resources when you feel like it[.
+4. Be consistent even if you are not able to solve questions. Discuss with friends (the best way to learn and keep yourself motivated).
+--------------------
+
+
+==================================================
+COMPANY: CITRIX
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/citrix/bachu-sai-preetham]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Bangalore (single branch in india)
+Online test followed by two technical rounds
+Description of Online test:
+Description of Technical Interview:
+I say most of the questions were variations on some standard questions like live babbar sheet ones.
+Description of HR Round:
+2nd technical had HR questions
+Interview bit
+Additional info for our viewers:
+CP helps in OT a lot, more we do, better the chances
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/citrix/aditya-singh]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1-  OT
+Round 2- technical
+Round 3- HR
+Description of Online test:
+First question was based on array and prefix sums
+Second question was about DP  and backtracking.
+Description of Technical Interview:
+Discussion on various sorting algorithms
+Apply binary search on linked list
+Removing duplicates from an array without using set
+Basic questions about react js(like what is component,what is props)
+Description of HR Round:
+There was a thorough discussion on my project (which was about database)
+then asked some leadership related questions like what you will do if one of the teammates is not able to meet the deadline of the project.
+Pick any one resource and stick to it.
+In my case interviewbit was the savior.
+In internship interviews there is a lot of focus on oops.
+Interviewbit, Aditya Verma playlist for dp and binary search (this a gem guys believe me)
+Additional info for our viewers:
+Don't waste your time and money on paid courses offered,everything is there for free
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/citrix/shyam-kumar-singh]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1-  OT
+Round 2- Technical
+Round 3- Technical + HR
+Description of Online test:
+The online test consisted of 2 Coding questions and 25 MCQ questions
+Question 1- Minimum steps to reach a target by a Knight.  (MEDIUM)
+https://www.geeksforgeeks.org/minimum-steps-reach-target-
+Question 2 – convert the string into dd- mm- yyyy Format.  (EASY)
+https://leetcode.com/problems/reformat-date/
+25 MCQs questions based on various topics such as Operating Systems, DBMS, Computer Networks, OOPS, C Programming, Algorithms.
+Description of Technical Interview:
+Technical interview round 1
+It was taken on hackerrank code pair platform and we were asked to pass all test cases.
+Question 1- Merge two sorted array (EASY)
+I solved first using brute force approach then I optimized the code using a two         pointer approach. Then the interviewer asked me to explain the space and time complexity of code.
+Question 2- Count total no of ways to score a target run by using 1,4,6 only.(MEDIUM)
+I solved it using Dynamic programming.
+Question 3- Diamond problem in inheritance and how to resolve that issue.
+Then he asked me about interfaces and abstract classes.
+Question 4 – why do we need normalisation in DBMS  and its TYPES.
+Description of HR Round:
+(Tech + HR) interview round 2
+First the interviewer asked for a brief explanation of my project and he asked some questions related to it.
+Question 1-How indexing is implemented in DBMS.
+Question 2 –  There are n villages and a postman. Find a Smallest possible distance covered by postman to delivers a letter t
+I told him the approach using the Floyd- warshall algorithm, but he wanted me to optimise the approach. He had given some hints then I told him by using a minimum spanning tree. I implemented the code and dry run the test cases and he was satisfied with that approach.
+Question 3 – He gave some COVID related graphical data and asked some mathematical and analytical questions on that.
+Then he asked me about my favourite data structure. I told him Trie data structure .
+Then he asked me how do you use this data structure in the present (COVID) scenario.
+Then next he asked me some Behavioural & situational questions.
+Study fundamentals of OOPS,DBMS and OS (CN - if you have time) .
+If you know the solutions of a problem don’t directly run into an optimised solution . First share brute force approach then optimised one. Try to cover all corner edge cases for a problem.
+Do participate in short contests on codechef , leetcode .
+Go through InterviewBit during the summer holidays.
+Have faith in your abilities, prepare hard as u can and hope for the best.
+(DP-Aditya Verma videos,SDE sheet By STRIVER)
+Coding Contest  - Codeforces,Leetcode
+Computer Fundamentals  - GFG articles
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: CURE.FIT
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/cure.fit/saikalyan-induri]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1 - OT,
+Round 2 - Technical Interview,
+Round 3 - Hiring manager round
+Description of Online test:
+Test duration was 60 mins and consisted of two coding questions.
+Description of Technical Interview:
+The technical interview started with an introduction followed by two DSA questions.
+The first question was of medium difficulty and was the same as the following question from cses, attached below.
+https://cses.fi/problemset/task/2183
+The second question was on Trees, it was also of medium difficulty.
+The whole interview was done in 40 minutes.
+Description of HR Round:
+There was an Hiring Manager round instead of HR round.
+The discussion mostly was on my projects, I was asked to show the live demo and the code. Then there were few questions on Javascript as my projects were mostly done using JS. The interview was done in 15-20 minutes.
+DSA should be strong , DBMS and OOP's basics should be strong. Doing competitive programming is an advantage.
+Technical rounds: Leetcode,  interviewbit, cses.
+Additional info for our viewers:
+Make sure you're well versed in everything that you put on your resume may it be projects or any skills like React.
+--------------------
+
+
+==================================================
+COMPANY: DEUTSCHE-BANK
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/deutsche-bank/vatsalkumar-sojitra]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1 - OT,
+Round 2 - Technical Interview,
+Round 3 - Professional Fitment,
+Round 4 - HR
+Description of Online test:
+Description of Technical Interview:
+Topics covered DSA, DP, OOPS, DBMS
+Description of HR Round:
+Simple and straightforward common HR questions and asked about previous experience if any.
+DSA and DP should be strong, DBMS AND OOPs basics should be strong
+Leetcode, interviewbit, gfg
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: DR.-REDDY'S
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/dr.-reddy's/pritha-shakharu]
+Use tab to navigate through the menu items.
+B.Tech Chemical and Mechanical branches
+Round 1- Resume Shortlisting
+Round 2- OT
+Round 3 & 4- Technical interview and HR interview
+Description of Online test:
+Technical- basic knowledge from Engineering course, elementary school level Science concepts (Chemistry, Physics), miscellaneous engineering questions
+Description of Technical Interview:
+Questions were from every nook and corner of our Chemical Engineering course.
+Important subjects are: Mass Transfer, Heat Transfer, Thermodynamics, Fluid Mechanics, Chemical Reaction Engineering.
+Definitions, formulae, differences, applications and reasoning based questions related to our core concepts.
+Explanation of concepts with examples was required.
+Interview duration : 20-40 minutes
+Description of HR Round:
+Behavioral and Situational interview questions. Focus on STAR methodology (situation, task, action and result). Teamwork and leadership qualities were tested. Confidence and the way you present yourself and your responses matters.
+Every interview begins with "Tell me about yourself " and ends with "Any Questions". Be mindful and give a strong optimistic response.
+Preparation for internship after 2nd year during summer break is the best time. Be thorough with the fundamental concepts of 2nd year. Utilize the summer break extensively in revising all the topics, preparing for the HR round. Try doing a project/internship , this really adds value.
+Grab every prospect for preparation. Attend any resume building workshop, mock interviews or GDs for practice.
+From every experience analyze the situations and yourself, you learn from the observations, imply it to yourself then you grow and get better the next time.
+Resources used while preparing for our course would suffice. ( Class Notes, prescribed books of subjects, NPTEL etc.).
+Brush up on your 11th and 12th grade Physics, Chemistry for OTs.
+For HR Round, deep introspection of your experiences are your resources to answer as per STAR methodology.
+Additional info for our viewers:
+Passion, Practice, Persistence are the key to ace internships and placement drives.
+Hope for the best but be ready for the worst. If you ardently work hard towards your goal, success will definitely chase you.
+--------------------
+
+
+==================================================
+COMPANY: ELEMICA
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/elemica/aadhya-komuravelly-]
+Use tab to navigate through the menu items.
+SDE - Associate Software Engineer
+Electrical and Electronics Engineering
+10th Aggregate: 70% or 7 CGPA and above, 12th Aggregate: 70% and above , CGPA Cutoff: 7.00 and above *No active backlogs*
+Round 1 - OT
+Round 2 & 3 - Technical
+Round 4 - HR
+Description of Online test:
+It was a medium level test in mcq pattern. It had communications and behavioural, aptitude, logical, DSA sections. The questions covered basic coding, dsa, dbms topics. There was a bonus section covering computer networking and web server questions.
+Description of Technical Interview:
+TI 1-The interview started with my introduction. Interviewer went through my resume in detail. He asked questions related to my internship and my work there. He then went through my projects. Questions from dbms, sql (difference between rollback and commit?acid properties?), javascript (how do you show an error or warning?), can't recollect all of them.
+TI 2- After my introduction, once again my resume was discussed. I was asked to code an easy level question from strings, what are the pillars of oops? Write a code to show polymorphism, questions on javascript were asked.
+Description of HR Round:
+The round started with my introduction. My interests and hobbies were discussed. What are your strengths and weakness? Long term goals? Any specific skillset that you want to focus on? Shift timings, ctc and bond details were discussed.
+1. Should try to build a solid foundation in computer science with strong competency in Data Structures, Algorithms and Operating System, OOPS & DBMS
+2. Should participate in coding contests on Leetcode and Codeforces to improve problem solving skills.
+3. Should think loud and be confident while answering.If you don't know the correct answer, just say it instead of giving wrong answer.
+C++ and DSA- apna college and striver A to Z sheet, coding ninjas
+OOPS- code with harry and apna college
+DBMS- sanchit jain youtube playlist
+Additional info for our viewers:
+My advice would be  - Trust yourself and be patient!
+--------------------
+
+
+==================================================
+COMPANY: FORD-IT
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/ford-it/prateek-jain]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+OT followed by one Technical + HR interview
+Description of Online test:
+OT consists of 3 coding questions, first one was fairly easy based on strings, second and third were medium level questions based on trees.
+Description of Technical Interview:
+The interview began with an introduction of both, the interviewer and me.
+He was very polite and made me comfortable with the environment.
+He asked me various differences between linked lists and arrays and their uses in daily life, then asked me to code a tree based question. I gave a brute force solution at first and then I optimized it to get to the final answer. We discussed time and space complexity. Then he asked some questions based on my branch.
+Last question was a medium level question based on stacks.
+Description of HR Round:
+There were some common behavioral questions.
+Basics of the branch that you are in, is also important. Even if you are preparing for software, don’t forget to pay attention to your branch.
+You can follow codeforces and codechef, leetcode, gfg.
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: GE-HEALTHCARE
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/ge-healthcare/vaishnavi-chirala]
+Use tab to navigate through the menu items.
+EEDP Engineer - Edison Engineering Development Program Engineer
+Electrical and Electronics Engineering
+As an Edison Engineering Development Program(EEDP) Engineer, one will be exposed to different modalities within GE Healthcare like Imaging, Digital, Maternity Care etc., for a span of two years. The role specification depends on the modality and the necessity of the work. Both hardware and software choices will be available at each modality.
+Round 1 - Online Test
+Round 2 - Pymetrics gamified assessment
+Round 3 - Technical
+Round 4 - HR
+Description of Online test:
+Online test had 3 sub sections. Aptitude section has 50MCQs to be solved in 50 minutes .The second section had technical questions 30 questions, 30 min. For software, the topics include DSA, DBMS, OS, and CN.  And two coding questions, for which 45 minutes were allotted. The coding questions were of medium level problems one was based on dynamic programming and other was linked list problem.
+On the same day, pymetrics test link was sent to the selected candidates. It is a game-based assessment consisting of 12 games. It tests the numerical and logical reasoning of the candidate to assess one's behaviour. Elimination for further rounds was done through this test too.
+Description of Technical Interview:
+It was like a rapid fire round, in my case. Initially, we were informed that  they would be hiring for both hardware and software roles. But no clarity was given on who would be having interviews for which role. In my case, as I am from EEE, questions were covered from software, hardware and electrical questions. The following are the questions:
+3)Difference between BJT and MOSFET
+5)Why do we use voltage regulator?
+7)Different data structures and uses
+8)Which field are you interested to work in?
+And depending on the answers, further explanation was asked. But the interviewer was so cool and asked questions only based on the previous semesters’ knowledge at that point of time.
+After my two month internship in the company, I had a technical interview based on my project in those two months and a few situation based questions. I had done my internship in hardware role and the project was "Battery Health Monitoring for Darwin Anesthesia Machine". This interview was taken by an external(outside GE) person. The questions were:
+1) What was your project about?
+2) What did you learn from your project?(detailed explanation)
+3)What would you do to improve the current project?
+4)How is the work culture in GE?
+5)What is your biggest weakness?(it led to multiple questions)
+A few situation based questions like
+"If you were given a task and you do not know anything about it, how would you move forward?"
+"Do you believe in team work? And would you help your teammates with their work?"
+"Who is more important to you, family or company?" ( prolonged for lot of time)
+Description of HR Round:
+2)What do you know about GE Healthcare?
+3) What did you find interesting in GE healthcare?
+4)What are the projects you have finished?
+5)Have you ever fought with your peers and how did you resolve it?
+6)What are your strengths and weaknesses?
+7)What are your areas of interest?
+8)In which position would you like to see yourself five years later?
+9)Would it be okay for you to relocate?
+General questions about project and the other questions were:
+2)What is your review on GE healthcare?
+3)How was your interaction with the other employees?
+4)What did you like in GE Healthcare?
+5)Why do you think we should hire you among all the other candidates?
+6)Do you have any other plans like M.S. or further studies?
+A few logical questions like " How do you divide a paper into 3 parts without using anything?"
+For bagging an internship, after B.Tech 2nd year, the summer break should be utilised well. Doing courses and projects related to your area of interest will help you improve your skills and build a good resume. Adding to that, it gives you confidence while facing the internship session pressure. For software preparation, one can improve upon themselves, by practicing and coding more problems, optimising at each step, each day.  For hardware preparation, in analog and digital electronics having basic knowledge and good notes from the earlier semesters would be sufficient. Practice and revision, both, should be in hand for any preparation.
+For software preparation, leetcode provides a lot of problems ranging from easy to medium to hard.
+For solving aptitude questions:
+https://youtube.com/playlist?list=PLiDoPUX9nLkJ8dnPgKoVEOiAb8BfulKRR
+For digital integrated circuits:
+https://youtube.com/playlist?list=PLpelQYOtPS_GffAjTNVRyy-QW5ydtkYvg
+Additional info for our viewers:
+Small improvements can bring big change- I believe in this. Beginning of any new activity always stimulates fear. And having fear is completely normal, but one needs to maintain fear as well as confidence in equal ratio, to get one's maximum output. And there is no late point to start preparation. Learning is a continuous process. Do not lose the hope in you due to the external pressure. Keep your calm and do your best.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/ge-healthcare/adarsh-reddy]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round1-OT
+Round2-Technical,
+Round3-HR
+Description of Online test:
+Three sections: 1) Aptitude 2) English 3) coding-2questions
+Description of Technical Interview:
+The interviewer at first glanced through my resume and asked if I knew about java. I said yes. Then He asked questions on Java Exceptions,Types,Examples. He then asked me to write code for detecting a loop in a linked list on notepad. And also asked to write code to get the average of all nodes in a binary search tree. Then he discussed my project like what technologies I have used and why I have used them. I have used the mongoose library to talk to the database(mongodb). He then asked me to write code to define models and schema in mongoose. So make sure that when you use libraries in your project you know which functions exist in that library and what those functions do.
+Description of HR Round:
+At first HR asked me  How you are coping with your online semester and what is your motivation to attend classes regularly in this online era. And she asked questions like why do you want to join the healthcare company and what do you think healthcare companies could have done in this pandemic to better support the hospitals and some other standard HR questions like what do you know about GE healthcare, so make sure you know little about the company before you sit in the interview.
+My preparation strategy was too well versed with the DSA that was really helpful in the online tests and in the interview. I have participated in a lot of contests on platforms like codechef,codeforces,leetcode which helped me in building intuitions and also improved my accuracy to solve problems fast. Also try to have at least one decent project in whichever field you are comfortable(ML,Web,Blockchain) etc .Some companies also focus on DBMS so have a look at it.
+For programming you can use these websites (leetcode,codechef,codeforces)
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: GOLDMAN-SACHS
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/goldman-sachs/sai-rohit]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+No CG cut off(people with backlogs can also apply)
+Round 1 - OT,
+Round 2 - Technical Interview,
+Round 3 - Technical Interview,
+Round 4 - HR interview
+Description of Online test:
+The test contains 3 sections. First section contains 2 coding questions. 2nd section contains HR round questions and the 3rd section contains math questions.
+Description of Technical Interview:
+In the first round they asked me 3 questions, one question from graphs and 2 easy medium problems which can be found in leetcode. In the second round he asked me about my resume and one simple coding question.
+Description of HR Round:
+Normal HR questions were only asked; Why Goldman Sachs, Where do you see yourself in 5 years?(Tip: It's better to prepare for these question before day it self)
+Competitive coding (Codeforces, Codechef, Kickstart etc.), DSA, DBMS, OOPS are the four pillars for getting an internship.
+Practise problems on codeforces, and DSA from leetcode. And before the interview go through the interview experiences in Geeks for Geeks. Complete interviewbit at least 1 month before intern drive.
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/goldman-sachs/deepak-prasad]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Online test(OT) and then 3 rounds of interviews( 1,2 technical round and 3 HR round)
+Description of Online test:
+OT was divided into 4 sections . Section 1 had 2 easy to moderate coding questions. Section 2 was based on aptitude(This was one of the most difficult sections as it had almost JEE level questions with topics ranging from probability , complex numbers, conic sections and others) Section 3 was an advanced coding based section  section 4 had mcqs that revolved around DBMS and OOPS concepts.
+Description of Technical Interview:
+I had 3 questions in round 1 :
+The first question was "check whether a parenthesis sequence is balanced or not"(standard application of stacks).
+The second question which was that " Given a m*n chessboard with a knight placed at source_x, source_y . Find whether the knight can reach the destination coordinates and also the minimum steps to do so".
+The last question was " Given a binary array where each element denoted a bulb and if the bulb was on,  the value of element would be 1 otherwise 0. I could do only one operation which is turn on and off the bulb and for every bulb on which I applied this operation the state of all bulbs to its right will be flipped. I had to tell the minimum no of operations needed to switch on all the bulbs. "
+Round 2:
+Given an array of strings I had to group all the anagrams together efficiently.
+A system based kind of question to design a twitter like application .( The interviewer told me  to express my ideas without being afraid.)
+Description of HR Round:
+Standard Data Structures concepts and DSA questions are a must. I would recommend doing either leetcode or interviewbit completely. Apart from this competitive programming also helps a lot and a couple of decent projects before the intern season begins.
+interviewbit
+websites like gfg hackerearth cp-algorithms for various concepts
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/goldman-sachs/aashi-agrawal]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1- OT
+Round 2- Technical interview
+Round 3- Technical interview
+Round 4- HR round
+Description of Online test:
+Section 1- Two easy-medium coding questions
+Q1- Given a number, we have to check whether at some step, the sum of the factorial of digits of the number can be the same as the given number (Hint: I used hash-map).
+Q2- Given a string of a sentence containing spaces. We have to return the absolute difference between the sum of the length of words in odd position and even position.
+Section 2- (8-10) Mathematics MCQs (Hard)
+Section 3- One medium-hard coding question
+Q3- Given a vector of distinct strings, we have to find the maximum number of strings which we can take such that we can arrange them consecutively only with following rules-
+Two strings are a and b, then max(len(a),len(b))=N+1 ,where N is the longest common suffix of a and b.
+Example- {rgy, bgy, ash, y, gy}
+Explanation- rgy->bgy->gy->y is one of the possible outcome
+Section 4- Two general essay questions and word limit was 200 words for each question
+Q1- If you are working in a group project and your teammate left that in the middle of it due to some reason, then what will you do in that situation?
+Q2- Describe a time when you got an unexpected and unbelievable outcome of a project.
+Section 5- OS, DSA, OOP related MCQs
+Description of Technical Interview:
+Round 1-
+The interviewer was very friendly. First, he looked into my resume and asked for a small introduction of my projects, then he asked me to write some tables and their attributes from my DBMS project in the hackerrank code editor.
+Then he modified one of the tables and gave a question and told me to write a SQL query. The query was using aggregate function and group by clause. Then he asked me if I knew trees, to which I said yes. Then I was asked to write a pre-order traversal code (using recursion was fine) along with its time and space complexity. Then he asked which tree is best for searching and some indexing in the database question(I answered B tree).
+Round 1 was over and he seemed satisfied with all my answers.
+Round 2-
+He looked into my resume and asked about my DBMS project. Then he moved on to the coding part-
+Q1- Given a string, we have to find the first non- repeating character in the string.
+Ex- string is "sggssjda" then output will be 'j'
+I first told my approach to solve it and then he asked me to write the code and then execute it.
+I solved it using hash-map and also given time complexity.
+Q2- To find the kth largest element from a given array. For this he said just to write pseudo code. I gave two approaches i.e. using priority queue and using sorting (quick sort) along with their time complexities. But he was asking about a more optimized method which I couldn't but then he said that's okay.
+Moving forward, he asked questions from oops part, like encapsulation with real life examples, inheritance with examples. After this, we discussed a lot about method overriding, method overloading, runtime and compile time polymorphism etc.
+Then he asked me to define normalisation with any example by writing table names with its attributes in the code editor. Then he asked about the normal form of the given example to which I explained the criteria of all the normal forms and then identified it.
+Round 2 was over then and I was asked to wait for round 3
+Description of HR Round:
+Round 3-
+This was the HR round and it lasted only for 10-15mins. He looked into my resume and asked about my projects. Then he asked many questions by giving situations related to working on some group project.
+They mainly focused on my dbms skills and were looking for a required knowledge about oops and problem solving part. Also, they are looking for your approach to solve any problem.
+Contests in codeforces, codechef and leetcode
+Interview bit (would recommend for last 2-3months DSA preparation)
+DBMS- sanchit jain playlist in YouTube
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/goldman-sachs/sai-jaahnavi-guntupalli]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Round 1- OT
+Round 2- Technical interview
+Round 3- Technical interview
+Round 4- Technical Round (some had this as HR round)
+Description of Online test:
+There were multiple sections in the OT. We had medium coding, aptitude, CS fundamentals, hard coding and personality tests.
+Description of Technical Interview:
+The topics asked in the technical interview were Dynamic Programming, dfs, linked list, recursion, priority queue and follow up questions.
+Description of HR Round:
+The main focus should be on Data structures and algorithms. Apart from this, puzzles, aptitude and CS fundamentals like DBMS and OOPS are an important part of preparation.
+Leetcode, geeksforgeeks, interviewBit, codechef, codeforces
+Additional info for our viewers:
+One must not be stressed in interviews. Confidence really makes a big difference. The interviewers guide you if they feel you are stuck. They want to know how you think, so think out loud.
+--------------------
+
+
+==================================================
+COMPANY: HONEYWELL
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/honeywell/kumar-abhishek]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+OT and Technical round(only one)
+Description of Online test:
+Mcqs from OOPS(around 30) and 2 coding ques(easy).
+Description of Technical Interview:
+Ques are from strings, Binary tree(
+https://www.geeksforgeeks.org/check-if-two-trees-are-mirror/)
+Description of HR Round:
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: ITC
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/itc/abhijeet-g-sarma]
+Use tab to navigate through the menu items.
+Data Analyst and Core Electrical
+Electrical and Electronics Engineering
+This is the first time ITC has taken a Data Science intern. So not very sure of the role.
+ITC has a KITES form wherein they ask thorough questions such as future plans, most satisfying moment along with academic criteria. Candidates were shortlisted based on this form response.
+Description of Online test:
+There was no online test
+Description of Technical Interview:
+There were two technical interviews. Both based on my CV. I had a Data Science oriented CV because of which the questions in the first round were on Data Science and my Project. The questions were:
+1) Difference between AI and Data Science
+2) Algorithm of Support Vector Machines
+And a couple of Project based questions.
+The second round was with regional heads of ITC. This round majorly consisted of core questions apart from explaining my project in detail. The questions were:
+1) Can PNP and NPN transistors be reversibly used?
+3) Question about Synchronous Induction Motor.
+4) What is the significance of real and imaginary power?
+Description of HR Round:
+HR round was a group discussion round wherein a random scenario was explained and we had to reflect on it. Communication skills, Thinking and Approach, confidence were tested.
+Resumé must be to the point as it played an important role in questions being posed. We must be confident enough to speak elaborately about any point mentioned in the resumé. Preparation must be done accordingly.
+Apart from Academics, I didn't specially prepare for the interview.
+Additional info for our viewers:
+I did some ground research about future plans of ITC, it's current projects and requirements and sectors in which the company is investing. This gave me an edge in the interview because I could confidently tell that this is what I bring to the table to match your requirements. I suggest any aspiring candidate to do the same. Know about your company, it's objectives, goals and requirements and answer accordingly.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/itc/bhavani-shankar]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Every Intern will be assigned a real life industry project on certain issues the company is facing.
+Electrical and Electronics Engineering, Mechanical Engineering, Chemical Engineering
+No bar on CGPA. The selections are based on Resume and Kites form which needs to be filled with the details of 10th, 12th, B-tech Semester wise GPA and other things including Projects and extracurricular activities.
+Round 1 - Online Application(Resume and Kites Form)
+Round 2 - Group Discussion
+Round 3 - Technical Round
+Round 4 - HR Round
+Description of Online test:
+There was no online test
+Description of Technical Interview:
+Most of the Technical Questions are from core subjects like Electrical Machines and Power Systems although some questions are asked from Digital Electronics. Questions are mostly related to basic conceptual understanding of the subject. Some of the Questions are
+1. How does a single Phase induction motor start?
+2. Explain Hysteresis curve and how do you select a material for Machine Design?
+3. Different methods for improving efficiency of Power Transmission?
+4. Design a model for FSM? (A specific case is given)
+Some questions are asked to know about your projects or work experience with any team or extra-curricular activities (related to management)
+Description of HR Round:
+Questions include technical and Managerial some of them are:
+1. Can we replace a npn transistor with a pnp transistor in a circuit?
+2. Why is the npn transistor most widely used?
+3. Question based on operation of transformers in parallel
+1. management related experience
+2. Questions based on your project
+Understand the given description of the problem. It is not necessary to start first but make sure about two things
+1. You should not repeat the same things others have already mentioned.
+2. It will be better if you can add some different perspectives from your side.
+For Technical Questions:
+You must be good at the basics of core subjects like Electrical Machines, Power Systems, Analog and Digital Electronics. Prepare good notes for these subjects(easy to revise). Although there is no OT, it is good to practise numericals so that you can answer the questions with some quantitative approximations.
+For other questions:
+It will be better if you have any experience in working with a team or any extra-curricular activities or projects.
+Here I am listing what resources I found helpful. There might be many other sources which I don't know
+Textbooks like: C.L.Wadhwa, William Stevenson
+Youtube Channel : Lectures of Electrical Engineering
+Textbooks like: PS Bhimbra, Electrical Machinery Fundamentals by Chapman
+Youtube Channel : Lesics, Lectures of Electrical Engineering
+Youtube Channel: NESO Academy, All about Electronics
+Additional info for our viewers:
+1. It is better to have good notes whenever you read anything new or else you may have to spend a lot of time during revision.
+2. Refer to multiple sources of information if you are stuck because not everyone's explanation is same, you might find some other interesting resources and authors.
+--------------------
+
+
+==================================================
+COMPANY: JOHN-DEERE
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/john-deere/abhinav-godara]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1-OT , Round 2- Technical Interview
+Description of Online test:
+2 Normal Competitive Programming questions as practised on codeforces codechef leetcode and interiewbit and 7 multiple choice questions based on Data Structures and Algorithms
+Description of Technical Interview:
+Technical Interview started from my introduction then they asked me to explain whole OOPs(Object Oriented Programming) in C++ .
+Then it was a pattern question which is
+Seeing this pattern you have to write a code which will take input the number of lines and print this with the number of lines upto 25
+Description of HR Round:
+No HR round
+Competitive Programming at different platforms like codeforces codechef leetcode and interviewbit and DSA is a must .
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/john-deere/rimpal-kumari]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+CGPA 6 and above with no active backlogs
+Round -1 OT
+Round-2 technical and HR Interview
+Description of Online test:
+First section were having 7 mcqs on core CS and data structures and algorithms
+And second section were having 2 coding questions.
+Description of Technical Interview:
+Topics they asked in interview were like some basics of dsa then they told me to write a code for one question and mostly they asked que of time complexity and space complexity and then they asked to write some queries from database . And many more.....
+Description of HR Round:
+In this they asked some basics questions and my strength weakness and some puzzles type question..,
+Everyone has their own strategy...so first you guys try to find your own strategy before looking for other one.
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/john-deere/jaswanth-inukonda]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1 OT,Round 2 Technical Interview
+Description of Online test:
+2 coding questions in one hour, very easy questions, all the test cases should be passed
+Description of Technical Interview:
+Questions were from DSA,OOPs,DBMS
+Ds ->simple questions like array vs Linked list, benefits of linked lists, searching algos and time complexity, no coding questions,
+OOPs ->explain inheritance,polymorphism(run vs compile),can overridden method have different return type, if error occurs what type of error,
+Java related-> why is main method static,public,void, what are arguments of main method, why do we give only them as arguments
+DBMS->explain what is normalization and its forms,why do we use it,primary id vs foreign id,types of joins,given two tables and attributes in it based on which attribute you will join and why ,a table that has 3 attributes (name,phone num,friend phone num)(friend is also present in the table),what will be SQL query to fetch student's name and his friend's name.
+Description of HR Round:
+Should be thorough with CS fundamentals and coding (very good in atleast one language) to crack OT.Coding everyday for sometime and taking down notes of cs subjects is very important
+OOPs-Javatpoint,DBMS-sanchit Jain yt channel,leetcode,interviewbit for practice
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: JPMC
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/jpmc/saurav-kumar-jha]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Summer Internship + 6 months intern + FTE (PPO)
+Round 1 - Online Test
+Round 2 - HireVue video interview round
+Round 3 - Code for good hackathon
+Description of Online test:
+Two coding questions on hackerrank
+1. An easy question based on circular movement of elements in 1D array.
+Main concept: next element = (ind+1)%N ,prev element = (ind-1+N)%N where N is the size of the array.
+2. An easy-medium level question on linked list.
+Description of Technical Interview:
+There wasn't any technical interview as such but there was one-to-one interaction with the mentor during the hackathon.
+Description of HR Round:
+HireVue video round :
+Two Behavioral questions came on the computer screen, and had the option to record and upload video in limited time. Many are eliminated in this round, so make sure to answer naturally. They review this round very carefully.
+Learn all basic DSA topics and do questions from any website like leetcode, gfg, hackerrank, hackerearth etc. Doing CP will also be helpful in OT to quickly come up with the approach. You should learn CS fundamentals and do some web or mobile app development too.
+Additional info for our viewers:
+The third and last round was a 24-hour hackathon. A team of 6 participants was formed randomly from their end based on skills survey. Your team doesn't need to win to get selected for internship/FTE, but you need to do your best and keep interacting with the mentor assigned to your team as their feedback matters.
+--------------------
+
+
+==================================================
+COMPANY: MICRON
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/micron/nishka-pandya]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1- OT
+Round 2 - Technical Interview
+Round 3 - Technical Interview 2
+Description of Online test:
+The test had 3 different parts - aptitude, coding (python, c++) and hardware questions.
+The aptitude questions were based on average, probability, time and work, area, HCF and LCM, etc
+The hardware part had questions based on both Analog and Digital.
+Description of Technical Interview:
+They asked me to explain my previous projects and asked questions based on it. An aptitude question was also asked in order to see my thinking pattern. They asked basic questions related to semiconductors, ROM, RAM,CMOS and other memory storage devices. They asked me to code a couple of programs in C++.
+Description of HR Round:
+Be strong in Aptitude and Hardware. Clearing the OT is the most important part, preparation for the interview comes after.
+Some of the websites I referred to while preparing are Indiabix, prepinsta, cocubes.
+Behzad razavi for Analog and Digital Electronics on youtube
+Textbooks- CMOS kang, Prosser- Art of Digital Design, Morris Mano
+https://youtube.com/playlist?list=PLD2350A83B752C861
+https://prepinsta.com/all-about-c-language/
+Additional info for our viewers:
+I focussed more on hardware since that was my area of interest and Micron is a hardware company. But I would advise to focus on the software side as well, especially C,C++, Python.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/micron/yashwanth-thati]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+OT, Round 2, Round 3 -HR
+Description of Online test:
+Platform hirepro, has proctoring
+Section 1 - Aptitude 15 questions -20 minutes
+Questions on probability, Interests, pricing, Alphabets coding, time and distances, paragraph on seating arrangement...
+Section 2 - Programming 15 questions -20 minutes
+Questions on basic syntaxes like structures, classes, etc. Most of the questions were on finding out output sequences, error finding like run time, compile time errors for given code snippets related to syntax, data structures, loops and finding out time complexities. Questions on oops, numpy of python asked. Few Code snippets were in JAVA, C# as well.
+Section 3 - Technical 25 questions -35 minutes
+Questions on digital electronics, CMOS, its VTC , 2 on CMOS fabrication, stick diagram of CMOS, assembly of 8051, 8085, 8086 and their architecture, 2-3 on op-amps and circuit theory, pipelining, static timing analysis, memory types in computer, z transform and some questions on verilog HDL.
+Time management is very important and don't waste more time on a single question.
+Description of Technical Interview:
+Introduce yourself and tell about the projects mentioned in your resume.
+Interviewer asked what their requirements were. I had seen their job description before, so better to have little understanding of their requirements.
+Asked whether I am aware of microprocessors and SSDs.
+Questions on C++ basics and OOPS
+Description of HR Round:
+The interviewer asked whether I know python. I told that I know only basic data types and syntaxes. So he asked the difference between tuple and list and asked to demonstrate it with a small program, how to delete an item from tuple and asked to code a simple program related to arrays in any language. Then he asked some HR questions like how do you respond when your boss shouts at you throwing your work, your ultimate future goal and what are your expectations from micron.
+For verilog HDL - Samir palnitkar or ASIC world website
+For digital electronics - Morris Mano book, All about electronics YouTube
+For microprocessors and assembly languages - Bharath Acharya , ponnambalam P YouTube
+For aptitude - indiabix website
+Additional info for our viewers:
+In interviews I always prefer solving using screen share when it's online mode and think loud.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/micron/nishna]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1-OT
+Round 2-Technical
+Round 3 - HR
+Description of Online test:
+Description of Technical Interview:
+2.Nor,Not,Nand gate questions
+6.Resume based questions
+Description of HR Round:
+In HR round they asked general questions and one programming question about finding frequency of a given word in a text
+They should focus mostly on the basics of core subjects. Little bit of practicing C questions and PYTHON questions would be more beneficial. Working on aptitude for half an hour (atleast) everyday would be more helpful.
+For C, Python many resources will be available .
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/micron/pragna-katragadda]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Round 1- Online Test, Round 2- Technical interview, Round 3- HR round
+Description of Online test:
+The test pattern is mcqs. Aptitude section, Software section(Data structures and some 3rd year concepts), Hardware section(Digital System Design topics, Cmos topics, Signals and systems topics)
+Description of Technical Interview:
+The interviewer first started from my resume. He asked about the courses I did. He is asked about my project. As I did a project in databases he asked "What is a database?" and "Where is the database stored?". Then he asked to show what programs i did recently. Next question is "what is IC with number 7486 IC?" Then he asked what is NAND gate and its outputs, function and uses.
+Description of HR Round:
+He was very approachable and comfortable while asking questions. Firstly he asked about 2 basic hardware questions then he asked about software questions. He asked me to type the code for either of the programs ``stack using queues" or "queue using stacks" and also asked me to write a program to a string question which he dictated. He asked me to give the approach to solve the program and then asked me to write code.
+Decide on what you want to do whether software job or hardware. Practice coding more. Data structures and dynamic programming are important even if it is a hardware profile. Reflect on your mistakes and improve. Start from day 1 of 1st year. Every small step will add up to the final output whether it is intern or placement. Stay focused and motivated. Do a project during 2nd year or before 3rd year. And be confident about the topics in the project. Prior knowledge on your project is very important.
+Geeks for Geeks for practise, Codechef contests, Leetcode contests
+For starters learning data structures :
+https://youtube.com/user/mycodeschool
+https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/micron/alay-patel]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Round 1 - OT
+Round 2 - Technical Interview
+Round 3 - HR Interview
+Description of Online test:
+Hardware - Basics of digital system design and Verilog
+Software - simple C++ and python based questions, questions on Operating system
+Description of Technical Interview:
+Basic C++ program, explaining my project mentioned in the resume, some verilog based questions
+Description of HR Round:
+It was sort of a mix of HR and technical. It began with talking about the 2 projects I mentioned in my resume, what was its aim, how it can be applied in the real world and what were the difficulties faced while developing it. Then it moved on to what I know about the company where I started explaining everything I knew about memory storage devices which is what the company manufactures. I tried to create an impression of being passionate about learning new things.
+Perfect your basics and practice for OT. Give all the mock OTs that might be organized by any of your college associations. Don't be depressed if you don't perform well there, they are meant to point out what topics/subjects you need to work on. Video lectures are good but try to go through some good textbooks as well because you might find there some details that a lecture series might miss.
+NPTEL lecture series for detailed understanding of a topic if you want.
+Neso and GeeksForGeeks for just the basics of all topics.
+Additional info for our viewers:
+For non CSE students, decide on which side you want to go early on, trying to prepare for both software and core profiles will hinder your preparations.
+--------------------
+
+
+==================================================
+COMPANY: MICROSOFT
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/microsoft/rajat-goyal]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1 - OT
+Round 2 - Technical Interview
+Round 3 - Technical Interview-2
+Round 4 - HR + Technical
+Description of Online test:
+It consisted of two easy-medium-level coding questions.
+Description of Technical Interview:
+My Technical Round started with a few questions on OOPS concepts. and
+The interviewer asked me to create some classes and use virtual function concepts.
+then He moved to some basic DSA questions, which consisted of strings, hashmap, LinkedList, and trees.
+Then he had a verbal discussion about the graph algorithms like Dijkstra and Dynamic Programming also.
+He asked about some real-life applications of every data structure and algorithm.
+Description of HR Round:
+It was kind of a mix of HR + technical rounds.
+In HR Round in the starting 10 mins, He asked me to introduce myself
+and discuss the projects I have done so far.
+then He asked some DBMS questions from that project Itself.
+He gave me one question and told me that My code should cover all the
+test cases and It should be a compact code.
+That question was to "Find the date after N days from any starting date"
+(Here we had to check for many corner cases like leap year etc.)
+During Coding that solution I explained my logic and reusability of code to him.
+Understand and cover most of the Data structures and algorithms Nicely and practice a little bit of competitive programming to clear the OTs quickly.
+Build some project(Not compulsory but better to have at least one)
+Practice some Mock Interviews so that you would be comfortable in real Interviews.
+https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y
+https://www.youtube.com/watch?v=eTiP-H9GQ30&list=PLDsWlXwFNai7qqOiGLxgw6mc7yIE8_y9T
+https://www.youtube.com/watch?v=6Iu45VZGQDk&list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ
+https://www.youtube.com/watch?v=iVLQeWbgbXs&list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN
+Just watch some videos from each and find the one which suits you best.
+Additional info for our viewers:
+So Just Be consistent throughout the preparation.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/microsoft/vedant-deshmukh]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Internship through Microsoft Engage programme.
+OT-2: a basic descriptive question
+Project round
+Interview round 1
+Interview round 2
+Description of Online test:
+Description of Technical Interview:
+Implementation based questions. I had to code on codility.
+Link of question :
+https://leetcode.com/problems/multiply-strings/
+Link of list of questions asked in Microsoft Engage programme in interview rounds:
+https://docs.google.com/spreadsheets/d/1CiQtfe1d6kgGl220yjRGigrjFv3I4d6xtNH6wSmTJ6E/edit?usp=sharing
+Description of HR Round:
+Actually for me it was an AA round. The AA round is basically a technical plus an HR round. A question was given and then general HR questions were asked.
+DSA is must. After that, learn DBMS and OOPs, and do one project and practice on platforms like leetcode, codeforces. In the last month, follow leetcode more.
+GFG, leetcode, aditya verma(for dp), striver(for graphs)
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: MONDELEZ-INTERNATIONAL
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/mondelez-international/raghuvamsi-daita]
+Mondelez International | Xpiria
+Use tab to navigate through the menu items.
+EEE, Mechanical, Chemical & MME
+Round 1 - Resume Shortlisting
+Round 2 - Group Discussion on a Case Study
+Round 3 - Technical + HR Interview
+Description of Online test:
+Description of Technical Interview:
+Resume based questions on my Positions of Responsibility & Courses. Technical questions were asked on my favorite subject. Trivial HR questions were also asked.
+Description of HR Round:
+Build a diverse resume covering Positions of Responsibility, good projects & courses. By doing all this, you would build your communication skills and team player skills which are essential for a corporate world. Also a good resume is a great advantage for you, it would help you in resume shortlisting round and also would give you an edge over others even if you try for off-campus opportunities. Be good with your academics, maintain a decent CGPA. Prepare well for OTs by constantly practicing aptitude from the internet or other books. For Group Discussion, you can have mock GDs with your friends. If you are nervous about your interview, then try to have mock interviews with your seniors or friends.
+I referred FacePrep & Indiabix for Aptitude preparation. For GD tips, I referred various websites.
+Additional info for our viewers:
+Just have confidence throughout the recruitment drive. Impatience won't help, you will get your chance. Just be consistent in preparation from your side. Rejections teach you a lot, take them positively. Don't have any negative emotions as they pull you down.
+--------------------
+
+
+==================================================
+COMPANY: ORACLE
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/oracle/naman-balai]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1-OT
+Round 2-Technical Interview 1
+Round 3-Technical Interview 2
+Round 4-HR
+Description of Online test:
+No coding questions
+Topics involved cs fundamentals , data structures , english and aptitude questions as well
+Description of Technical Interview:
+Technical interview -1
+A scenario was given something related to covid tests and had to design a custom data structure and come up with an optimum solution.
+Follow up questions were regarding the same structure with further optimisations
+Technical interview -1
+Similarly, like the first round a scenario was presented and a Database solution was expected to store transactions.It was a complete DBMS related round.
+Description of HR Round:
+General HR questions like why oracle , how you kept yourself productive in a pandemic and few more similar questions.
+Make basics strong using gfg and practicing on leetcode
+After certain level start giving contests on codeforces and leetcode
+Much practise will be needed for concepts like DP
+Start solving interviewbit few months before the placement/intern session starts
+Read past interview experiences before giving OTs and interviews
+Sites : - Interviewbit , Leetcode , GFG
+Contests On : - Codeforces , Leetcode , Codechef
+Additional info for our viewers:
+Have some projects ready , try building something unique to stand out in interviews.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/oracle/lakshaya-priya]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1 - OT
+Round 2 - Technical Interview
+Round 3 - HR Interview
+Description of Online test:
+MCQs on Data Structures, Operating Systems, Object Oriented Programming, Database Management Systems, Aptitude (Mathematical Reasoning), Verbal Communication,
+Description of Technical Interview:
+Questions about the projects you have done
+Difference between OOP in java and c++
+Coding question - Print elements with max occurrences in an array
+Description of HR Round:
+What is the use of Data Structures in real life?
+Why do you believe you are suitable for the role, what difference can you make here?
+Why do you want to join the company?
+Why have you chosen coding and what interested you about it?
+How many years of coding experience do you have?
+Attempt coding contests on a regular basis from websites like Leetcode. Practice topic wise DSA questions everyday. Spend some time working on projects and practicing topics like Aptitude, DBMS and OOPs.
+Interviewbit, Leetcode, Geeksforgeeks
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/oracle/bhargavi-ravirala]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round-1 OT,
+Round-2,3 Coding and Technical
+Round -4 HR round
+Description of Online test:
+English, aptitude, basic cs knowledge,dsa, oops
+Description of Technical Interview:
+Be strong in ds and oops basics, be confident in what you are saying, try to give multiple answers with different time complexities.
+Description of HR Round:
+Asked some basic questions like introduce yourself, what projects have you done, what are your favorite cs topics, how do you solve unknown question, how do you help your friend in need, how did you manage to study in corona times.
+Be consistent and practice daily don't lose hope, love what you do
+Gfg archives, leetcode, codeforces, interview bit
+Additional info for our viewers:
+Be confident and keep the only things you know completely in resume
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/oracle/ayush-singhal]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+3 rounds
+Description of Online test:
+Description of Technical Interview:
+More importance was given to project related questions and counter questions. Questions related to trie,DSA(linked lists,trees,dp etc), AVL tree were asked.
+Description of HR Round:
+It consisted of generic HR questions like tell me about your strength and weakness .Why Oracle etc.
+Subjects like DBMS and OOPS should not be ignored .Some good questions were asked based on these topics. In DSA do study advanced data structures like tries, AVL trees and heaps.
+GFG ,leetcode,Javatpoint,Interviewbit. And for DBMS sanchit jain playlist would be enough.
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/oracle/rahul-kumar-mishra]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+1 OT ,2 technical interview and 1 HR round
+Description of Online test:
+In OT there will be 4 sections Verbal ability , Aptitude , computer science basics, coding section .
+In every section there will be 3-4 sub sections which will have 7-8 qsns and time limit given.
+Every section will have individual time limit like for aptitude it was 47 mins for 36 qsns for coding it was 35 mins for 30 qsns
+And there was no negative marking so you can mark every qsn without any fear
+In verbal ability section there were qsns related to grammars like you have to correct some sentences , or choose a word which has similar meaning to given word, 4-5 qsns based on passage, rearrange words like this
+In coding section there were qsns based on output predicting and depicting errors in functions and most importantly there were many qsns on AVL tree . So before sitting in ORACLE make sure to read about AVL tree
+In computer science basics section There were qsns related to OS, DBMS,OOPs except OS all qsns were easy only and u can answer them if u have ur basics strong .
+In Aptitude section there were common aptitude qsns like work and time , and pncs qsns u can find them on GFG , if u are a jee student then u can easily do those qsns , there was 1 section under aptitude know as flow chart based qsns in that part u will be given some instructions or algorithm to solve a qsn and on the basis of that a flow chart of that algo would be given to you and there will be some blanks in that flow chart that u will have to fill , so this is also a medium level qsn only
+Try to do best in ur OT  , yeah time wont be sufficient enough for some qsns in aptitude like i randomly ticked some qsns because time wasn't there , but dont worry u will not be alone who will be doing this .
+Description of Technical Interview:
+ROUND 1
+When the interviewer came , he asked me to intoduce myself so i did for 2-3 mins then he asked me how was ur  2nd year since ours was online thats why he asked for . Then he asked me a qsn about DOM that i didnt know because i didnt about XML so i told him that i dont know about this , if u dont know anything about a topic just tell them that u dont know .
+After that he asked me about DOM model , i think i dont quite remember the name but it was like this that u have to create a Generic BOM model that we can use for any product
+BOM model: lets understand it with an example lets say u have a product called PC (personal computer) so it can have many components like CPU, keyboard,mouse,printer etc and then again CPU can contain many components like SMPS,motherboard,hard disk , then again motherboard can contain many things like register , RAM, etc so as u can see their is an Heirarchy type of thing  . But in the start i didnt understand because the interviewer was also that explaining like i did here so i told them that i can make abstract classes of pc then i can implement them in the products then again use abstract classes and i will achieve that thing but it was not the right answer i thought so i then asked him that whether i have to give him a data structure or any oops soln so he asked me to give a data structure soln so i told them that since its heierarchial we can use K-ARY Tree for this , then he told me to draw it on white board the he asked me to code the structure  of the tree , and i easily coded it since i knew about K-ARY tree earlier only in KR sir's class. Then he asked me Whether i can implement this thing without using Data structure i was confused at this time so i asked him sir how we can implement this heirarchial thing without trees so he told me to do it in DBMS . So i told him that i would create 2 table , one for root id and second for Child table having root id as foreign key there and there will be one to many relationship from root to child , we can find the childs using root id then we can again use those child ids as root ids and recursively find all the childs of that node . He was pretty satisfied with this solution.
+Then he asked me to explain about my project , i was having a project on TODO list so i explained them how i made this and what problems i faced during the implementation of my project .
+Then he asked me how would i implement a Score board that will display runs and will auto maticlly refresh so i told them i can use Socket.io library(package) and achieve this , then he asked me whether i can do any alternative i said no sir i dont know
+This concluded my 1st interview i was asked to wait in post interview round since i was selected for further round .
+Link to the pic of the BOM model :
+https://drive.google.com/file/d/1DbjXvDZ57SYqgNedfG5qVIaBK3MQdOvB/view?usp=sharing
+ROUND 2
+I was selected directly for 3rd round , though there were many students who has to give 3 round.
+Description of HR Round:
+ROUND 3
+It was my HR round . When the HR came he asked me how was my last interview , i said sir it was good then he asked me what qsns did he asked and what solns i gave so i explained my first round to him then upon hearing my Tree answer he asked my is there only need of searching and sorting in tree , is tree useful for any other things ? i told him we use it for maintaining hierarchical order and then again he asked my what if i didn't take unique values means what if I will take repeated data then I explained him with the concepts of database like data redundancy and data inconsistency and he was satisfied with it Then he asked me what if i didn't took sorted values , i explained him with indexing of dbms that we take sorted values for logn searching etc. Then he asked my what do u feel as a computer science undergraduate , so u have to give ur honest answer for this and i gave something like there's always learning in CS and everytime u know that u have became superior there is someone who is already superior that u and u try learning hard etc... then he asked me how my friends affected my learning and life so i told them u can frame ur own answer on this . Then he asked my why u want to join oracle u can google search about these things and then he told me we are done for today .
+You can easily crack the OT of oracle but to crack interviews u should have good knowledge of object oriented programming, DBMS, DSA.
+for DSA solve questions from leetcode around 400-500 will be fine.
+leetcode have 3 category of questions easy , medium and hard try to solve more medium level questions rather than easy ones.
+Apart from leetcode practice on codeforces and score a good rating there by participating the contests atleast 1200-1300 rating is good enough.
+leetcode, codeforces, codechef, hackerrank
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: PROVIDENCE-HEALTH-CARE
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/providence-health-care/raghav-rath]
+Providence Health Care | Xpiria
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+OT + 2 Technical Interviews + HR Interview
+Description of Online test:
+OT had different sections like aptitude, English, coding and technical.
+1. Aptitude and English sections were easy and these sections were MCQs.
+2. In the technical section, there were questions (MCQs) on HTML and CSS (mainly related to Web Dev). Very few MCQs were on DSA and the questions were on the topic of hashing (linear and quadratic probing).
+3. Coding section was very easy. 2 simple coding questions (I chose C++) were asked and no DSA was required. 2 SQL query questions were also asked.
+Description of Technical Interview:
+Round-1:
+It started with the interviewer asking me to introduce myself. She looked at my resume and asked me regarding my hobbies for the 1st 5 minutes. Then she asked me basic questions on SQL like what are DML and DDL commands, differences and examples. She asked 2 SQL queries which I answered correctly. Few questions on OOPS related to inheritance and polymorphism were asked. Again 2 very simple C++ questions were asked which I don't remember now.
+Round-2:
+It was supposed to be a technical round, however the interviewer asked me only HR questions.
+Description of HR Round:
+Round-3:
+Since there were practically 2 HR rounds for me, I was asked almost all std HR questions like strengths and weaknesses, why do you want to work for our company, etc. and also a lot of other different types of HR questions.
+DSA - LeetCode, InterviewBit
+SQL - w3schools for learning and practice on HackerRank
+OOPS - Saurabh Shukla YT channel
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/providence-health-care/sathwika-gopala]
+Providence Health Care | Xpiria
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round - 1, OT
+Round - 2, Technical + Behavioural Interview
+Round - 3, HR + Behavioral
+Round - 4, HR
+Description of Online test:
+Covered everything like html, css, Js, cloud computing, SQL, DBMS, OOPs, CP(dsa)
+Description of Technical Interview:
+Only one technical question was asked for me in the first round. Everything else was behavioral and HR
+Question : Find the last occurrence of the selected number In an "Unsorted" array.
+Ans. Since the array is not sorted, using binary search doesn't make much sense so I solved it using maps.
+Description of HR Round:
+This was very smooth and the interviewer was very friendly. We just discussed the things in my resume. He covered almost every part of my resume except the projects and technical stuff saying that he doesn't want to test me technically as it's already been done in previous rounds. Later, we had some friendly discussion about the college and all.
+As we all know Practice makes man perfect. Practice as much as you can and I suggest you to make coding a habit.
+Interview bit
+Additional info for our viewers:
+Clearing OT is one level whereas preparing for interviews and clearing them is another level. You get tired, demotivated by rejections, exhausted by waiting but trust me..consistency is the key. Be consistent and this will lead you to success no matter how many hurdles you have in your way!!
+--------------------
+
+
+==================================================
+COMPANY: QUALCOMM
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/qualcomm/surya-prakash-surepally]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Round 1- OT
+Round 2- Technical Interview
+Round 3- HR
+Description of Online test:
+The OT was held on 13th August 2021 on Hirepro platform. There were 3 sections in the OT. Aptitude, C-Programming, Profile Dependent (Software, Hardware). Each of these 3 sections had 20 questions and 30 minutes was given for each section. So, 90 mins in total. Each Question carried +1 for correct and -0.25 negative marking for wrong answers.
+There were questions on-
+A Paragraph on Seating Arrangement based on which 5 questions were asked.
+One Data Interpretation question based on which 5 questions were asked.
+Overall, this section is easy, just keep a watch on TIME!
+​Basic C questions on-
+Few Questions from Data Structures like
+1 Question from Operating System
+This section had questions on-
+Implementation of function using a minimum number of NAND/ NOR gates.
+Few questions on CMOS
+1 Question on microcontrollers, ADC, OpAmps.
+Description of Technical Interview:
+After the OT, there was a Technical Interview the next day. Interviews were held on Microsoft Teams. The interviewer was very friendly. He started with my Hobbies first.
+Then moved to my Formal Introduction. Tip: Remember the Headers on your resume and briefly explain about each section. Introduction shouldn't take more than 2 mins. If the interviewer is interested, he'll ask more specifically about that part.
+First, he asked me about the NAND gate then asked me to design it from a Transistor (BJT or MOS). He asked about ALU, it's working and asked me to make one.
+He asked me to Write a code for an array of function pointers that point to 10 different functions. Some other basic C-related questions were asked.
+He was very interested in my projects. He asked me to explain in detail about our e-yantra project. We spent almost 8 mins here. I hope the importance of projects is very clear at this point.
+He then asked about my Positions of Responsibility. I was in both ECEA and EA & HAM Club, I explained in brief what we do here and my role there.
+It was a short interview for 30 Mins.
+Description of HR Round:
+2 hours after the Technical Interview, there was a call from HR.
+The HR round lasted approximately for 5 mins. It was a casual telephonic call.
+1. She asked me to introduce myself and tell about my family
+2. My feedback on the Technical Interview Round.
+3. Why do I want to join Qualcomm?
+4. What are my long-term goals?
+5. My Work Location preferences?
+6. Do I have any questions?
+For that, I asked what does the company expect from a fresher and which projects I will be working on if I get selected.
+That was it. Nothing Technical Here :)
+One Hour after the HR round, the Final Select List was released.
+The first important thing is to know what to prepare, the syllabus, what kind of questions the company asks, where to find the resources.
+Learn to invest your time efficiently.
+If you're in ECE 2nd year and decided to choose Hardware, then I'd suggest developing a good understanding of EDC, DSD, NA, SS, Control Systems in the curriculum itself. Trust me it'll save a lot of time and help a lot in the long run. You can use this time to practice a lot of questions.
+Keep an eye on the Apprenticeship Programs conducted by various Associations and clubs. Also, being in touch with seniors gives an advantage.
+Also don't just bluntly ignore coding unless you're very sure to go HARD :)
+Solve General Aptitude and Verbal Reasoning questions on the IndiaBix website.
+Solve puzzles for technical interviews from GeeksForGeeks.
+HirePro data interpretation questions and answers.
+Practice MCQs on C programming & Data Structures from IndiaBIX and GeeksForGeeks.
+Morris Mano for theory. Solve all the questions at the end of each chapter.
+Checkout Digital Electronics Crash Course on Kreatryx YT channel by Shankar Sir.
+Solve all the MCQs on Digital Electronics from IndiaBIX and from GATE PYQs
+You can also try Special Problems on Sequential Circuits from Unacademy.
+For Verilog, you should refer to the book Samir Palnitkar & Verilogmaster blog.
+Solve questions from IndiaBIX on other subjects like Electronic Devices and Circuits, network analysis, Signals and Systems etc..
+Vlsiexpert blog is the one-stop solution for Static Timing Analysis.
+Interview and HR
+There are some good videos for interviews on YT. Many other company specific resources are available on the web.
+Additional info for our viewers:
+"Early Bird Catches The Worm". And it is never too late to start. I started my preparation from zero just after 2-2 from BLE, NA! :)
+Practice a lot of questions from various resources available online, you're just a search away! Surf online and get to know the type of questions asked. Extract every piece of useful information available on the web.
+Form a small team of like-minded people, it'll help a lot. Share your progress, clear your doubts. Make group projects.
+It is OKAY if you lose motivation every 3rd day but remember that Consistency is the key. Take breaks when needed but come back stronger.
+Avoid rewarding yourself for completing a task. You have a war to win. Take breaks but do not rest. You can have all the fun after you make it for real.
+In short, I'd say go GHOST MODE!
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/qualcomm/vangari-santhosh-kumar-]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+It has 2 rounds
+1st round OT
+2nd round technical+HR
+Description of Online test:
+Description of Technical Interview:
+Description of HR Round:
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/qualcomm/rohith-chanati]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round -1 OT
+Round -2 Resume shortlisting
+Round -3 Technical interview
+Round -4 HR interview
+Description of Online test:
+Questions on digital and analog electronics were asked, verilog, coding questions, aptitude
+Description of Technical Interview:
+Description of HR Round:
+HR round just checked our communication skills and team playing skills
+Gain knowledge about digital and analog electronics, network analysis
+Additional info for our viewers:
+Though you were unable to crack it don't lose hope
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/qualcomm/p-brahmani-sthitha-pragjna]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1 - OT
+Round 2 - technical and HR interview
+Description of Online test:
+Aptitude, questions on C & digital electronics
+Description of Technical Interview:
+Design AND, OR gates from 2*1 & 4*1 mux
+Description of HR Round:
+Why did you choose semiconductor industry?
+What do you know about the company?
+Any plans for higher education?
+With respect to the courses we have as part of EEE....pscp, DS & DE courses - being good at these will do ig.
+Freecodecamp and gfg for pscp and DS
+Neso and any standard textbooks for DE
+Quite often I found random online sources for some topics useful but I don't remember them now.
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/qualcomm/anchuri-varsha]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Round 1 - OT
+Round 2 - Technical Interview
+Round 3 - HR call
+Description of Online test:
+There were 3 sections - Aptitude, Programming,  Digital Electronics
+Aptitude - All questions were on basic mathematics like probability, profit and loss, permutations, etc. Much preparation is not needed for this. Just keep a good pace.
+Programming - Data structures, C programming. This section also consisted of basic questions.
+Digital Electronics - Most of the questions were from DSD 1 & 2, EDC. Very few were from other core subjects.
+Description of Technical Interview:
+He asked me about my project. It was a very small project but he asked very deeply about it. Then some basic Data structures and C++ questions like implementing queues using stacks, goto statements, infinite loops etc. He then asked me what I knew about the company.(Research somewhat about the company before going for the interview). He asked if I would prefer Embedded systems coding (software c++) or RTL level coding (hardware verilog).
+Description of HR Round:
+It was not at all an interview, just a friendly phone call. She asked me very normal questions like why I wanted to join Qualcomm, how was my technical interview, location preference etc.
+Revise all the core subjects and focus on C/C++ programming, data structures as well. You should be strong in all fundamentals. Whether you will be asked about hardware or software or both completely depends on the interviewer and you will never know.
+Textbooks for core subjects, DS from GFG
+Additional info for our viewers:
+In interviews, just be confident and say whatever you know about the question. Do not get disheartened if you don't get the internship because the reason for the same might not always be lack of knowledge or skill. If you are reading this in your 2nd or 1st year, try to attain a good CGPA because it matters A LOT.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/qualcomm/akshay-gunda]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1 - OT
+Round 2 - Technical Interview
+Round 3 - HR
+Description of Online test:
+Basics of programming, digital electronics and aptitude
+Description of Technical Interview:
+Most of the questions are regarding programming. Firstly the interviewer asked basic definitions in C++ , then asked about my interests and then simple coding questions in Data structures , strings etc.
+Description of HR Round:
+The interviewer mostly asked about my interest in their company and what I know about their programs. Just go through their official website and remember their key programs for this round.
+Should be strong in their basics mostly in programming. Should be able to answer simple questions in programming such as difference between class and struct, difference between struct and union etc.
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: SALESFORCE
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/salesforce/aayush-ramteke]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1 - OT
+Round 2 & 3 - Technical Interview
+Round 4 - HR round
+Description of Online test:
+Questions are in easy to medium Range.
+There was total 3 questions to be solved in 2hr
+1) It was related to Binary Search.
+2) It was related to multi source BFS.
+3) I forgot (but it was something related to subarray)
+Description of Technical Interview:
+Round 1(45 min, Online)
+Q. He took my intro, and asked some opps questions.
+Q. You have an array, which has 2 types of flower (type 1 is represented as 0 and cost p coins, and type 2 is represented as 1 and cost q coins). You have to make bouquet which
+1. must contain k flowers (continuous in given array)
+2. must have both types of flower.
+3. and have to minimize the cost.
+I told him my logic, and wrote the code. He just looked at my code, and asked me if I had some for him.
+At the end he wished best of luck for the next Round🙂.
+Round 2(45 min, Offline)
+Q. He took my intro and asked some opps questions.
+Q. He gave me an array and asked me to find its next greater permutation. by rearranging the element in array.
+Q. He gave me a linked list, and asked me to reverse it in group of k.
+In both problems, I have to write code from scratch.
+Description of HR Round:
+First, She took my intro and asked some HR. problems
+Q. What difficulties did you face while making this project(from resume)
+Q. How will you add a new feature if asked in your project(again from resume)
+Q. How did you manage coding as you belong to Electrical stream.
+Q. Why did you shift to coding.
+1) Try to give contest regularly, and upsolve it(most important)
+2) Try to do CP(knowledge you gained >> rating)
+3) Prepare for cs fundamental topics(oops, DBMS)
+4) Do standard leetcode problems(Striver Sheet)
+https://drive.google.com/drive/folders/1P7tuPICriLrdjWvIhffF7AkCl_AZAH0o
+Additional info for our viewers:
+Don't lie about anything on your resume.
+Always start from brute  force, even if you know its optimal solution
+Try to maintain Cg > 7.5 (at worst > 7)
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/salesforce/aditya-srivastav]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+One OT and two technical rounds. 1 hour
+Description of Online test:
+Matrix, dynamic programming, linear data structures, ip addresses.
+Description of Technical Interview:
+Description of HR Round:
+Light talk on my profile. Discussion on future.
+DSA, Interviewbit and leetcode
+DSA, Interviewbit and leetcode
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: SAMSUNG
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/samsung/amit-gahadwal]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Circuit branches and Mechanical
+OT and only Round-1 (Technical), others rounds were canceled
+Description of Online test:
+There were three questions in OT, Questions level was easy and medium
+Description of Technical Interview:
+Technical interview was very good, the interviewer asked me to introduce myself and about my project that I mentioned in Resume.
+He asked me three DSA questions.
+Out of them 2 were easy and medium or we can say standard questions.
+But one question was of a hard level. First he asked me to talk about logic/approach. I took little time and was able to explain logic then he asked me to code that.
+I tried to code but faced some error.
+Then the interviewer asked if I had any questions for him.
+Description of HR Round:
+You have to practice a sufficient number of questions, always keep coding. Don't give much of a gap in preparation.
+You should solve all standard questions.
+Minimum one contest you can give in a week ,in starting I prefer at Leetcode only
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/samsung/akash-kumar]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+CGPA cutoff - 7, with no active backlogs
+There were 2 rounds
+Round 1 - OT
+Round 2 - Technical Interview + HR Round
+Description of Online test:
+It consist of 3 questions
+1st question was based on stack (have to find the next greater element in an array) and the rest two questions were based on binary tree (easy to medium level).
+Description of Technical Interview:
+The interview went for around 30 min. He started the interview with his introduction and then asked me to introduce myself, then he directly took me to coding question.
+So the first question was based on linked list which was of easy level. I told him the brute force approach, he later asked me to optimize my approach.
+Then he took me to the second question which was based on trie data structure.
+He didn't ask me to code any of the questions, just asked me to tell the approach. Once he was satisfied with my approach, he moved to the next question.
+After this he asked me to explain one of my project, and some question related to my project which was based on OOPS and DBMS. At last he asked me some behavioral questions and the interview ended.
+Description of HR Round:
+Keep practicing DSA problems from InterviewBit, Leetcode or GFG. Also give equal importance to CS subjects(OS,DBMS) and OOPs. And make sure that you should be perfect in everything you have written in your resume .
+When a question is asked, be confident, start with the Brute Force approach and keep communicating with the interviewer and let him/her know about your approach.
+leetcode, codechef-for contest
+Gfg ,interviewbit -for practicing problems
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/samsung/saurav-kumar]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1 - OT,
+Round 2 - Technical interview
+Description of Online test:
+There were medium level DSA questions on binary trees and DP.
+Total 3 questions
+Description of Technical Interview:
+1. Detect and remove loop in  a linked list
+https://www.geeksforgeeks.org/connect-nodes-at-same-level/
+3. Print the leaf nodes of a binary tree
+Description of HR Round:
+No HR round
+LeetCode Top Interview Questions
+Leetcode contests and DLC
+LeetCode Top Interview Questions:
+https://leetcode.com/problem-list/top-interview-questions/
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/samsung/sammed-jain]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+The selected candidate(s) would be primarily working on Software R&D projects and they will be
+further mapped to any of the below mentioned CoEs based on their interest and business
+- Intelligence (Voice, Vision, OnDevice, Data)
+Round 1 - OT
+Round 2 - Only 1 Technical interview
+Description of Online test:
+Online Test comprised of three questions.
+Different sets were there. In my set, the first 2 questions were easy to medium level.
+Third question was of medium to hard category.
+1 easy question of array and 2 questions from trees.
+Try to solve all 3 questions, but for me the 3rd question was a bit difficult so I was shortlisted in 2 questions only but solved questions quickly.
+Description of Technical Interview:
+Technical interviewer was very good,asked me to introduce myself and asked about my project.
+Then he moved to some aptitude questions which involved pnc and some other logical ques.
+Then he moved to DSA part, where he asked an easy question and a medium question.
+Medium question was from trees.
+Then he asked some other behavioral questions.
+Description of HR Round:
+Striver- Tree, Recursion, DP, Graph, Trie
+Aditya verma-Sliding window, stack,binary search
+Do DLC-Leetcode daily and give regular leetcode contests.
+and 450 dsa or interviewbit to cover topic wise
+Try giving regular contest on codechef.
+Subjective can be done in a week from
+Subjective can be done in a week or less from Saurav Shukla -Youtube
+Make a good project of Web or App dev or ML
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: SAP-LABS
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/sap-labs/gaurav-kumar]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Round 1-OT, Round 2-Technical interview, Round 3-Technical interview, Round 4-HR
+Description of Online test:
+Online test comprises of 2 coding questions(one from array and other from string).
+Description of Technical Interview:
+In both the technical interview, mostly oops questions were asked with code ,and some data structures(preorder, postorder), and a coding question in the last.
+Description of HR Round:
+Normal HR questions
+Continuous practice of coding questions, go through all the oops concept.
+GFG, Interviewbit
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: SCHLUMBERGER
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/schlumberger/lakshita-choudhary]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round 1- OT
+Round 2-Technical round 1
+Round 3- Technical round 2
+Round 4- Managerial round
+Round 5- HR round
+Description of Online test:
+2 Basic Coding Questions
+(The only twist in the question was the input was coming in a flow and you have to take the input till the last number like while(cin>>n){..} ).
+Description of Technical Interview:
+Technical round 1 (30-35 mins) :
+b. ArraysV+ map questions
+4. Discussion on sorting techniques and binary tree (like time complexities ,how do u approach a ques which includes sorting, which is better to use  at what time. )
+Technical round 2 (30-35 mins) :
+1. Project discussion , questions on it and testing the project knowledge .
+2. Discussing current /latest technologies like cloud computing.
+3.Testing knowledge on oops concepts( basically on the  properties like if u are working on a project and want to give some access to code not whole .)
+4. Resume discussion (I mentioned python,java ,c++ so he asked some basic differences between them  and my preferable languages etc.)
+Managerial Round (25-30 mins) :
+1. Started with Basic introduction and personality questions.
+2. What things in the past you feel proud about or you feel low about ?
+3. Tell me your project experience .
+b. Coordination between members and how did you manage if any person didn't work.
+4. If you have to develop a software what all things you would look upon to make it more effective.
+5.  What do you know about Schlumberger ?
+Description of HR Round:
+HR round  (5-10 min) :
+5. Any questions for me??
+Note : There was no particular sequence between rounds it can be in any order You can even get HR round at first and technical at last.
+Be consistent and practise as many questions as possible from various coding platforms.
+1.DSA self paced course(Sandeep Jain), GFG, Leetcode
+2.OOPs - last minute notes from apna college(
+https://drive.google.com/file/d/1CljO4lsVcxLXj59X0OMBB5WNhG0fzVOw/view)
+https://docs.google.com/document/d/1KV-9I5D6iddJbAoDzPEBVR6izf-j_7PXq3JQSC7KC2Q/edit)
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/schlumberger/palak-marodia]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1- OT
+Round 2-Technical round 1
+Round 3- Technical round 2
+Round 4- Managerial round
+Round 5- HR round
+Description of Online test:
+Two coding questions (Arrays and strings)
+Description of Technical Interview:
+Technical round -1
+1)Oops concepts with real life examples and definitions.
+coding questions:
+1) Detect a loop in a linked list.
+2) Print the Next Greater Element (NGE) for every element in an array.
+3) Find the node with minimum value, in BST.
+Technical round-2
+1) Questions related to projects and skills mentioned in the resume.
+2) Oops concepts with real life examples and definitions.
+3) Basic Dbms concepts with definitions and examples.
+Description of HR Round:
+3. Your strengths and weaknesses
+4. Asked me to briefly tell about my co-curricular and extra-curricular activities.
+Practice DSA questions consistently (from leetcode, GFG and Interviewbit) and Oops , DBMS from Javatpoint, GFG.
+(solve daily leetcode challenge and also participate in biweekly and weekly contests)
+Interviewbit
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: SEDEMAC-MECHATRONICS
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/sedemac-mechatronics/n.srinivas-rahul]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Round 1- aptitude, Round 2- Coding OT, Round 3- technical interview, Round 4- Technical interview
+Description of Online test:
+Genral aptitude questions were asked in first round. The second round was completely on C language. It has 5 codes to write and 8 objective questions.
+Description of Technical Interview:
+I was asked codes and puzzles. Codes were basic.
+Description of HR Round:
+Be strong with your basics and we can solve most of the questions when you leave out pressure.
+Geeks for geeks, youtube, interview bit
+Additional info for our viewers:
+Sedemac genrally comes for 2 profiles.
+--------------------
+
+
+==================================================
+COMPANY: SERVICENOW
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/servicenow/neeraj-negi]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+CGPA - 7 and above, no backlogs
+Round 1 - OT,
+Round 2,3 - Technical round,
+Round 4 - HR round
+Description of Online test:
+1. STL -> 1 basic question.. 2-> medium.. priority queue…
+Description of Technical Interview:
+1. Basic DSA 2. projects  3.Linked lists  4. sets and sorting algos
+Description of HR Round:
+Basics must be strong, you must know what you are going to speak. Speak only if you know the correct answer and be ready for follow ups…
+GFG, Leetcode, Codeforces, Codechef
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: TATA-STEEL
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/tata-steel/syed-amer-rehan]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+EEE, ECE, Mechanical and Chemical
+Round 1 - OT
+Round 2 - Group Discussion
+Round 3 - Technical Interview
+Description of Online test:
+Consists of Aptitude, English and Technical (Electronics) .
+Duration of test was 2 hours.
+Description of Technical Interview:
+The interview started with intro about myself. Then they asked question about electronics like:-
+Which configuration is used for voltage and current amplification ? (related to CB , CE, CC modes) ?
+How to reduce effect of noise in a system (feedback) ?
+The interview was done in 20 minutes.
+Description of HR Round:
+For core related jobs, conceptual clarity is the most important .
+Class notes will be sufficient.
+For doubts, you can refer to "ALL ABOUT ELECTRONICS" or "NESO Academy".
+Additional info for our viewers:
+Attempt a good number of mock OTs before the intern season starts.
+--------------------
+
+
+==================================================
+COMPANY: TEXAS-INSTRUMENTS
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/texas-instruments/rohith-kumar]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+Texas Instruments is a global semiconductor design and manufacturing company that produces a wide range of products, including microcontrollers, analog integrated circuits, and embedded processors.
+An Analog Design Engineer at Texas Instruments is responsible for designing and developing analog integrated circuits for a variety of applications. This includes designing and testing circuits, analyzing data, and troubleshooting any issues that arise. The engineer must also be able to work with other teams to ensure that the design meets the customer’s needs.
+CGPA Cutoff 6, NO ACTIVE BACKLOGS
+There are 2 rounds
+Round 1 - OT
+Round 2 - Technical interview
+Description of Online test:
+Basically, there are 4 sections in the online test. aptitude section is compulsory for everyone; the remaining 3 sections are analog, digital, and embedded software. We can choose any sections we want. The above 3 sections are not compulsory for everyone so I choose both analog and digital sections. Questions asked in the analog section are pretty tricky and also some questions are lengthy. the analog section covers topics like OPAMPs, Rc-Circuits(very important), MOSFETs, BJTs, and Diode circuits .one should practice a lot of questions from the above topics I prefer sedra smith and gate questions for practice and also listen to Razavi lectures(electronics-1 playlist)  in youtube. those lectures are very well explained by Razavi himself (these lectures are very important for a basic understanding of analog electronics; he is a masterpiece If I can say in one word).
+In the Digital section questions are asked from topics like counters,8086 microcontroller, pipeline registers, setup time, Hold Time, Verilog, and FSM. etc questions are pretty easy basic concepts are required.I prefer Bhima Shankar sir lectures from the Kreatryx channel(
+https://youtube.com/playlist?list=PLs5_Rtf2P2r77kmBnXAe06RsI3VadeQ5s
+Follow this playlist ) and practice previous year gate questions.
+Description of Technical Interview:
+I was selected for both analog and digital Roles
+For Analog Role The interview started with a self-introduction. there are two  interviewers  for me they are very friendly so don't need to panic after that one of the interviewers posed a question about the Rc circuit and asked about output voltage it is an easy question but tricky they give lots of time to think so don't panic keep calm and think correctly and asked a couple of questions from Rc circuits they are very easy (do lots of Questions  from Rc circuits I prefer Nagendra Krishnapura  lectures and follow this blog
+http://coreplacementsnsit.blogspot.com/2018/08/hi-i-am-rachit_14.html?m=1)
+and then after they moved onto diode circuits asked output  voltage of peak detector circuit and clipper circuits they are easy questions as I practiced a lot of questions on Diode circuits from sedra smith  and they asked  basic questions on oscillators (OPAMP) the overall duration of the interview is 50 minutes lastly I will say one important thing in the interview try question even if you don't know the answer they will see your approach not the final answer so approach is very important not answer.
+Description of HR Round:
+2-3 months of rigorous practice and revision is enough to crack the internship. consistency and revision are two important factors. I started my preparation during the summer vacation, before that I was weak in analog electronics. I didn't even know some basic concepts. I prefer Razavi's lectures and Razavi's book for concept-building and practice purposes. if you have enough time do problems from sedra smith
+Razavi lectures(electronics-1 playlist is enough for internship )
+sedra smith (for diode circuits and OPAMPs)
+Ak Chakraborty for basic  circuit theory
+Nagendra krishnapura  lectures(Especially For OPAMP and RC circuits )
+Follow this blog its very useful
+http://coreplacementsnsit.blogspot.com/2018/08/hi-i-am-rachit_14.html?m=1
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/texas-instruments/navkaran-singh]
+Use tab to navigate through the menu items.
+Electrical and Electronics Engineering
+CGPA cutoff 6 (borderline cases not allowed)
+1st Round - OT (online test)
+2nd Round - Technical interview
+All students except me who cleared the 2nd round gave the 3rd round of technical interview. I was directly selected after the 2nd round.
+Description of Online test:
+The test was Mcq based only. Questions were asked from Assembly language ,C programming and aptitude.
+Description of Technical Interview:
+Q1. Implementation of stack without using STL
+Q2. Find the max element of stack with least time complexity possible. (Elements can be removed and added and the max element should be updated accordingly)
+Q4. List of prime numbers present between n1 and n2
+Q5. Inheritance question on Car parking system.
+This round lasted for 1½ hour.
+Description of HR Round:
+None. I was directly selected after the 2nd round.
+3 students (including me) were selected for Software role.
+Focus on your DSA basics. The questions they ask in internship interviews are on the easier side. They wanted to know if you know the basic implementation of your dsa topics like stacks, queues and linked list. So Clear your concepts like you must know who to do things without using STL (standard template libraries).
+Youtube channels:- Apna College, Love babbar
+Internet :- Geekforgeeks, Leetcode, DSA sheet by love babbar.
+Solve questions which were asked by this company in previous interviews.
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/texas-instruments/sarikonda-varsha]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Round 1-OT
+Round 2- Technical interview (technical rounds varied for each student, but for many, it was one)
+Description of Online test:
+I selected a digital electronics stream.The test included questions from the number system, counters,8086 microcontroller,pipeline registers,Verilog,FSM. etc. But the way of asking questions was so subtle that you have to spare a minute just to understand the question.
+Description of Technical Interview:
+The interview started with a self introduction, where I included my interests part(vlsi). He started questioning from that domain. Most of them are from Verilog language. You need to have a clear understanding of all operators and loops, blocking and non blocking assignment, flow of compilation of programs. Questions were a bit tacky but the interviewer tries to help you with some clues which you must be able to catch on time. After 1 hr on Verilog ,He moved to digital electronics and some OT questions where you have to justify your answer. It lasted for nearly 3 hours.
+Description of HR Round:
+All you need is 2-3 months for complete preparation. Have a clear understanding of concepts and get all your doubts cleared before the exam. Try to have deep knowledge in one or two areas and just move the interviewer's eye on these topics by relating every question into them. Then you can pull it off easily if you are calm and confident. The interviewer will be ready to help you if you get stuck somewhere, all you need to do is analyze the question as much as you can until you untie it. Be confident about what you have answered and try to have a two way communication rather than like a question-answer session.
+1. Morris mano for digital electronics
+2. Try to look into the exercises part too.You can get solutions from YouTube with explanation.Just listen at 2X.
+3. A language. For Verilog go for Samir paltnekar and for practice hdl.bits would be helpful.
+4. Free quiz at vlsielearn website.(for better understanding of concepts)
+Additional info for our viewers:
+Be confident. If you are trying for something, try to have a clear understanding of that area. For eg: If you are interested in digital electronics intern,Try to gather some info about its importance in different domains (vlsi, embedded systems etc).This gives you an insight of what the interviewer expects from your side and what skills you need to develop for better growth.
+--------------------
+
+
+==================================================
+COMPANY: VISA
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/visa/pavani]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+CGPA - 7 and above, no backlogs
+Round 1-OT, Round 2-Technical Interview
+Description of Online test:
+Description of Technical Interview:
+Coding problem, oops, project, MySQL
+Description of HR Round:
+Codeforces, codechef, geeks for geeks, leetcode, udemy
+Additional info for our viewers:
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/visa/srikakolla-sreeja]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+1 Round
+Description of Online test:
+3 questions in 1 hour
+Description of Technical Interview:
+1.You are given 5 integers.Without using any sorting method,loops find the second largest number.
+2.What is the minimum time complexity required to find whether a given number is prime or not.
+Description of HR Round:
+Asked some general questions like what do you know about the company,what are your strengths and weakness.
+Practice DSA.Be thorough with Oops and DBMS concepts.Try to have 1 mini project.
+Additional info for our viewers:
+Try to practice some puzzle type of question.
+--------------------
+
+[Student Experience: https://www.xpiria.in/internship-experiences/visa/yash-kumawat]
+Use tab to navigate through the menu items.
+Computer Science and Engineering
+Round1 : OT
+Round 2 : Interview (Technical + HR) [Not for Interns]
+Description of Online test:
+It consists of 2 coding questions .
+Description of Technical Interview:
+For interns there was just a single round . The interviewer asked straight away about my projects and we had a deep discussion on my DBMS project . After that she asked some basic practical technical questions . There were no coding questions asked to me during the whole interview . At the end she asked some behavioral questions .
+Description of HR Round:
+There was no separate HR round for interns .
+A good knowledge of Data Structures is mandatory for clearing Online tests . A good hands on to competitive programming is always a plus point . Try to have some good projects and one must have complete knowledge about his/her project . The complexity of the project doesn't matter , you must have a complete idea of your project .
+InterviewBit for interview preparation
+Additional info for our viewers:
+--------------------
+
+
+==================================================
+COMPANY: WELLS-FARGO
+==================================================
+
+--- GENERAL PROCEDURE & EXPERIENCES ---
+
+[Student Experience: https://www.xpiria.in/internship-experiences/wells-fargo/akash-singh]
+Use tab to navigate through the menu items.
+Electronics and Communication Engineering
+Round1- OT
+Round2 - Technical Interview
+Round3 - Technical Interview
+Round4 - HR
+Description of Online test:
+Online coding and Aptitude round
+We have different sections with time limits for each section and we cannot go back to previous questions in the aptitude and English section. Questions of aptitude and english were easy and can be solved without prior practice.
+The time limit for the coding section was 30 min and contained 2 medium level questions.
+Description of Technical Interview:
+Technical Interview 1 :
+The interviewer was very kind and polite and I was feeling very comfortable with him.
+At first, he told me to introduce myself. After that he started to ask me questions on different data structures such as Dijakarta, knapsack,linked list, shortest path algorithm and then he asked basic questions on oops. As I have a project on dbms then he asked to explain it and also asked cross sections such as what joins, rdbms,normalization,constraint,relationship etc. In the end he asked me to write the code for dividing a circular linked list in two halves.
+Technical Interview 2:
+It was a short round of 1/2 hrs. It was basically a managerial cum technical round. He asked me about my branch and my jee score. His focus was also on your communication as well as presentation skill. Then he asked me basic question on dsa and finally asked to code a question on my favorite data structure
+Description of HR Round:
+It was not an elimination round for us. It was a telephonic round and she asked me my name and my interview experience and any doubts about the internship.
+First and foremost make a good command on dsa. Try to solve as many questions as you can. For beginner level you can practice on hackerrank and then move to leetcode/gfg.I will prefer leetcode over gfg. Trees, linked lists, and stack are the most important data structures. You can also do some competitive programming from codeforces. It will give you an edge in ots .
+And finally give equal weightage to oops and dbms. Interviewers ask many questions from their topics.
+For dbms, gate smasher YouTube Channel
+Additional info for our viewers:
+--------------------
+
+
