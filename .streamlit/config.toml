@@ -1,3 +1,6 @@
+[client]
+toolbarMode = "viewer"
+
 [theme]
 base="dark"
 primaryColor="#8ab4f8"
