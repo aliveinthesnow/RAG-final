@@ -1103,7 +1103,7 @@
         "metadata": {
             "category": "Academics",
             "subcategory": "Syllabus",
-            "filter": "ELECTRICAL MACHINES \u2013 III 2 - 0 - 0"
+            "filter": "ELECTRICAL MACHINES"
         }
     },
     {
@@ -1112,7 +1112,7 @@
         "metadata": {
             "category": "Academics",
             "subcategory": "Syllabus",
-            "filter": "POWER ELECTRONICS 3 - 0 - 0"
+            "filter": "POWER ELECTRONICS"
         }
     },
     {
@@ -1121,7 +1121,7 @@
         "metadata": {
             "category": "Academics",
             "subcategory": "Syllabus",
-            "filter": "DIGITAL SIGNAL PROCESSING 3 - 0 - 0"
+            "filter": "DIGITAL SIGNAL PROCESSING"
         }
     },
     {
@@ -1130,7 +1130,7 @@
         "metadata": {
             "category": "Academics",
             "subcategory": "Syllabus",
-            "filter": "SYNTHESIS OF DIGITAL SYSTEMS 3 - 0 - 0"
+            "filter": "SYNTHESIS OF DIGITAL SYSTEMS"
         }
     },
     {
@@ -1139,7 +1139,7 @@
         "metadata": {
             "category": "Academics",
             "subcategory": "Syllabus",
-            "filter": "MICROPROCESSORS AND MICROCONTROLLERS 3 - 0 - 2"
+            "filter": "MICROPROCESSORS AND MICROCONTROLLERS"
         }
     },
     {
@@ -1148,7 +1148,7 @@
         "metadata": {
             "category": "Academics",
             "subcategory": "Syllabus",
-            "filter": "ELECTRICAL MACHINES LAB-I 0 - 1 - 2"
+            "filter": "ELECTRICAL MACHINES LAB-I"
         }
     },
     {
@@ -1157,7 +1157,7 @@
         "metadata": {
             "category": "Academics",
             "subcategory": "Syllabus",
-            "filter": "CONTROL SYSTEMS LAB 0 - 1 - 2"
+            "filter": "CONTROL SYSTEMS LAB"
         }
     },
     {
@@ -1166,7 +1166,7 @@
         "metadata": {
             "category": "Academics",
             "subcategory": "Syllabus",
-            "filter": "DIGITAL SYNTHESIS LAB 0 - 1 - 2"
+            "filter": "DIGITAL SYNTHESIS LAB"
         }
     },
     {

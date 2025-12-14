@@ -182,6 +182,12 @@ def generate_embeddings(data, model):
                     chunks.extend(sub_chunks)
             
             for i, chunk in enumerate(chunks):
+                # CONTEXT FIX: For Food/facilities, prepend the name so it's never lost in sub-chunks (like Reviews)
+                if item['metadata'].get('category') == 'Food' or item['metadata'].get('category') == 'Facilities':
+                    name_context = item['metadata'].get('sub_category') or item['metadata'].get('filter') or ""
+                    if name_context and name_context not in chunk:
+                        chunk = f"**{name_context}**\n{chunk}"
+
                 embedding = embedder.encode(chunk).tolist()
                 
                 base_id = item.get("id")
